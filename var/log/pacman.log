@@ -1,0 +1,1564 @@
+[2019-05-24 14:52] [PACMAN] Running 'pacman -Syu --root /tmp/newmsys/msys64'
+[2019-05-24 14:52] [PACMAN] synchronizing package lists
+[2019-05-24 14:52] [PACMAN] starting core system upgrade
+[2019-05-24 14:52] [PACMAN] starting full system upgrade
+[2019-05-24 14:52] [PACMAN] Running 'pacman -S --noconfirm --root /tmp/newmsys/msys64 base'
+[2019-05-24 14:53] [ALPM] transaction started
+[2019-05-24 14:53] [ALPM] installed msys2-runtime (3.0.7-2)
+[2019-05-24 14:53] [ALPM] installed bash (4.4.023-1)
+[2019-05-24 14:53] [ALPM] installed bash-completion (2.8-2)
+[2019-05-24 14:53] [ALPM] installed gcc-libs (7.4.0-1)
+[2019-05-24 14:53] [ALPM] installed libbz2 (1.0.6-2)
+[2019-05-24 14:53] [ALPM] installed libiconv (1.15-1)
+[2019-05-24 14:53] [ALPM] installed libexpat (2.2.6-1)
+[2019-05-24 14:53] [ALPM] installed libintl (0.19.8.1-1)
+[2019-05-24 14:53] [ALPM] installed libgettextpo (0.19.8.1-1)
+[2019-05-24 14:53] [ALPM] installed libasprintf (0.19.8.1-1)
+[2019-05-24 14:53] [ALPM] installed gettext (0.19.8.1-1)
+[2019-05-24 14:53] [ALPM] installed liblzma (5.2.4-1)
+[2019-05-24 14:53] [ALPM] installed liblz4 (1.9.1-1)
+[2019-05-24 14:53] [ALPM] installed liblzo2 (2.10-2)
+[2019-05-24 14:53] [ALPM] installed gmp (6.1.2-1)
+[2019-05-24 14:53] [ALPM] installed libhogweed (3.4.1-1)
+[2019-05-24 14:53] [ALPM] installed libnettle (3.4.1-1)
+[2019-05-24 14:53] [ALPM] installed coreutils (8.31-1)
+[2019-05-24 14:53] [ALPM] installed icu (64.2-1)
+[2019-05-24 14:53] [ALPM] installed ncurses (6.1.20180908-1)
+[2019-05-24 14:53] [ALPM] installed libreadline (8.0.000-1)
+[2019-05-24 14:53] [ALPM] installed zlib (1.2.11-1)
+[2019-05-24 14:53] [ALPM] installed libxml2 (2.9.9-4)
+[2019-05-24 14:53] [ALPM] installed bsdcpio (3.3.3-3)
+[2019-05-24 14:53] [ALPM] installed bsdtar (3.3.3-3)
+[2019-05-24 14:53] [ALPM] installed bzip2 (1.0.6-2)
+[2019-05-24 14:53] [ALPM] installed libopenssl (1.1.1.b-1)
+[2019-05-24 14:53] [ALPM] installed openssl (1.1.1.b-1)
+[2019-05-24 14:53] [ALPM] installed findutils (4.6.0-1)
+[2019-05-24 14:53] [ALPM] installed sed (4.7-1)
+[2019-05-24 14:53] [ALPM] installed libffi (3.2.1-3)
+[2019-05-24 14:53] [ALPM] installed libpcre (8.43-2)
+[2019-05-24 14:53] [ALPM] installed less (530-1)
+[2019-05-24 14:53] [ALPM] installed gzip (1.10-1)
+[2019-05-24 14:53] [ALPM] installed libcrypt (2.1-2)
+[2019-05-24 14:53] [ALPM] installed info (6.6-1)
+[2019-05-24 14:53] [ALPM] installed libtasn1 (4.13-1)
+[2019-05-24 14:53] [ALPM] installed libgpg-error (1.36-1)
+[2019-05-24 14:53] [ALPM] installed libgcrypt (1.8.4-1)
+[2019-05-24 14:53] [ALPM] installed libxslt (1.1.33-2)
+[2019-05-24 14:53] [ALPM] installed glib2 (2.54.3-1)
+[2019-05-24 14:53] [ALPM] installed libp11-kit (0.23.15-1)
+[2019-05-24 14:53] [ALPM] installed p11-kit (0.23.15-1)
+[2019-05-24 14:53] [ALPM] installed ca-certificates (20180409-1)
+[2019-05-24 14:53] [ALPM] installed brotli (1.0.7-1)
+[2019-05-24 14:53] [ALPM] installed libdb (5.3.28-2)
+[2019-05-24 14:53] [ALPM] installed libedit (3.1-20170329)
+[2019-05-24 14:53] [ALPM] installed libsqlite (3.28.0-1)
+[2019-05-24 14:53] [ALPM] installed heimdal-libs (7.5.0-3)
+[2019-05-24 14:53] [ALPM] installed libunistring (0.9.10-1)
+[2019-05-24 14:53] [ALPM] installed libidn2 (2.1.1a-1)
+[2019-05-24 14:53] [ALPM] installed libmetalink (0.1.3-2)
+[2019-05-24 14:53] [ALPM] installed libnghttp2 (1.36.0-1)
+[2019-05-24 14:53] [ALPM] installed libpsl (0.20.2-3)
+[2019-05-24 14:53] [ALPM] installed libssh2 (1.8.2-1)
+[2019-05-24 14:53] [ALPM] installed libcurl (7.65.0-1)
+[2019-05-24 14:53] [ALPM] installed curl (7.65.0-1)
+[2019-05-24 14:53] [ALPM] installed filesystem (2018.12-1)
+[2019-05-24 14:53] [ALPM] installed grep (3.0-2)
+[2019-05-24 14:53] [ALPM] installed dash (0.5.10.2-1)
+[2019-05-24 14:53] [ALPM] installed dtc (1.5.0-1)
+[2019-05-24 14:53] [ALPM] installed file (5.37-1)
+[2019-05-24 14:53] [ALPM] installed m4 (1.4.18-2)
+[2019-05-24 14:53] [ALPM] installed flex (2.6.4-1)
+[2019-05-24 14:53] [ALPM] installed mpfr (4.0.2-1)
+[2019-05-24 14:53] [ALPM] installed gawk (5.0.0-1)
+[2019-05-24 14:53] [ALPM] installed libargp (20110921-2)
+[2019-05-24 14:53] [ALPM] installed getent (2.18.90-2)
+[2019-05-24 14:53] [ALPM] installed tftp-hpa (5.2-3)
+[2019-05-24 14:53] [ALPM] installed inetutils (1.9.4-2)
+[2019-05-24 14:53] [ALPM] installed lndir (1.0.3-1)
+[2019-05-24 14:53] [ALPM] installed mintty (1~3.0.0-1)
+[2019-05-24 14:53] [ALPM] installed msys2-keyring (r9.397a52e-1)
+[2019-05-24 14:53] [ALPM] installed msys2-launcher-git (0.3.32.56c2ba7-2)
+[2019-05-24 14:53] [ALPM] installed libassuan (2.5.3-1)
+[2019-05-24 14:53] [ALPM] installed libgnutls (3.6.7.1-1)
+[2019-05-24 14:53] [ALPM] installed libksba (1.3.5-1)
+[2019-05-24 14:53] [ALPM] installed libnpth (1.6-1)
+[2019-05-24 14:53] [ALPM] installed nettle (3.4.1-1)
+[2019-05-24 14:53] [ALPM] installed pinentry (1.1.0-2)
+[2019-05-24 14:53] [ALPM] installed gnupg (2.2.15-2)
+[2019-05-24 14:53] [ALPM] installed pacman-mirrors (20180604-2)
+[2019-05-24 14:53] [ALPM] installed which (2.21-2)
+[2019-05-24 14:53] [ALPM] installed xz (5.2.4-1)
+[2019-05-24 14:54] [ALPM] installed pacman (5.1.3-1)
+[2019-05-24 14:54] [ALPM] installed libarchive (3.3.3-3)
+[2019-05-24 14:54] [ALPM] installed libpcre16 (8.43-2)
+[2019-05-24 14:54] [ALPM] installed libpcre32 (8.43-2)
+[2019-05-24 14:54] [ALPM] installed libpcrecpp (8.43-2)
+[2019-05-24 14:54] [ALPM] installed libpcreposix (8.43-2)
+[2019-05-24 14:54] [ALPM] installed pcre (8.43-2)
+[2019-05-24 14:54] [ALPM] installed pkgfile (19-1)
+[2019-05-24 14:54] [ALPM-SCRIPTLET] ==> Run 'pkgfile --update' to initialize the database
+[2019-05-24 14:54] [ALPM] installed libgpgme (1.13.0-1)
+[2019-05-24 14:54] [ALPM] installed libpcre2_8 (10.33-2)
+[2019-05-24 14:54] [ALPM] installed libutil-linux (2.33.1-1)
+[2019-05-24 14:54] [ALPM] installed wget (1.20.3-1)
+[2019-05-24 14:54] [ALPM] installed pactoys-git (r2.07ca37f-1)
+[2019-05-24 14:54] [ALPM] installed pax-git (20161104.2-1)
+[2019-05-24 14:54] [ALPM] installed rebase (4.4.4-1)
+[2019-05-24 14:54] [ALPM] installed time (1.9-1)
+[2019-05-24 14:54] [ALPM] installed ttyrec (1.0.8-2)
+[2019-05-24 14:54] [ALPM] installed tzcode (2019.a-1)
+[2019-05-24 14:54] [ALPM] installed util-linux (2.33.1-1)
+[2019-05-24 14:54] [ALPM] transaction completed
+[2020-04-05 16:29] [PACMAN] Running 'pacman -Syu'
+[2020-04-05 16:29] [PACMAN] synchronizing package lists
+[2020-04-05 16:30] [PACMAN] starting core system upgrade
+[2020-04-05 16:31] [PACMAN] Running 'pacman -Syu'
+[2020-04-05 16:31] [PACMAN] synchronizing package lists
+[2020-04-05 16:31] [PACMAN] starting core system upgrade
+[2020-04-05 16:34] [PACMAN] Running 'pacman -Syu'
+[2020-04-05 16:34] [PACMAN] synchronizing package lists
+[2020-04-05 16:34] [PACMAN] starting core system upgrade
+[2020-04-05 16:35] [ALPM] transaction started
+[2020-04-05 16:35] [ALPM] upgraded msys2-runtime (3.0.7-2 -> 3.0.7-6)
+[2020-04-05 16:35] [ALPM] upgraded bash (4.4.023-1 -> 4.4.023-2)
+[2020-04-05 16:35] [ALPM] upgraded filesystem (2018.12-1 -> 2020.02-2)
+[2020-04-05 16:35] [ALPM] upgraded mintty (1~3.0.0-1 -> 1~3.1.4-1)
+[2020-04-05 16:35] [ALPM] upgraded pacman-mirrors (20180604-2 -> 20200307-1)
+[2020-04-05 16:35] [ALPM] installed libzstd (1.4.4-2)
+[2020-04-05 16:35] [ALPM] installed zstd (1.4.4-2)
+[2020-04-05 16:35] [ALPM] upgraded pacman (5.1.3-1 -> 5.2.1-6)
+[2020-04-05 16:35] [ALPM] transaction completed
+[2020-04-05T16:37:28+0530] [PACMAN] Running 'pacman -Su'
+[2020-04-05T16:37:28+0530] [PACMAN] starting core system upgrade
+[2020-04-05T16:37:28+0530] [PACMAN] starting full system upgrade
+[2020-04-05T16:43:12+0530] [ALPM] transaction started
+[2020-04-05T16:43:36+0530] [ALPM] upgraded bash-completion (2.8-2 -> 2.10-1)
+[2020-04-05T16:43:37+0530] [ALPM] upgraded gcc-libs (7.4.0-1 -> 9.3.0-1)
+[2020-04-05T16:43:39+0530] [ALPM] upgraded brotli (1.0.7-1 -> 1.0.7-2)
+[2020-04-05T16:43:40+0530] [ALPM] upgraded libbz2 (1.0.6-2 -> 1.0.8-1)
+[2020-04-05T16:43:41+0530] [ALPM] upgraded libiconv (1.15-1 -> 1.16-1)
+[2020-04-05T16:43:41+0530] [ALPM] upgraded libexpat (2.2.6-1 -> 2.2.9-1)
+[2020-04-05T16:43:41+0530] [ALPM] upgraded liblzma (5.2.4-1 -> 5.2.5-1)
+[2020-04-05T16:43:41+0530] [ALPM] upgraded liblz4 (1.9.1-1 -> 1.9.2-1)
+[2020-04-05T16:43:42+0530] [ALPM] upgraded gmp (6.1.2-1 -> 6.2.0-1)
+[2020-04-05T16:43:43+0530] [ALPM] upgraded libhogweed (3.4.1-1 -> 3.5.1-1)
+[2020-04-05T16:43:43+0530] [ALPM] upgraded libnettle (3.4.1-1 -> 3.5.1-1)
+[2020-04-05T16:43:53+0530] [ALPM] upgraded coreutils (8.31-1 -> 8.32-1)
+[2020-04-05T16:43:54+0530] [ALPM] upgraded icu (64.2-1 -> 65.1-1)
+[2020-04-05T16:47:41+0530] [ALPM] upgraded ncurses (6.1.20180908-1 -> 6.2-1)
+[2020-04-05T16:47:42+0530] [ALPM] upgraded libreadline (8.0.000-1 -> 8.0.004-1)
+[2020-04-05T16:47:44+0530] [ALPM] upgraded libxml2 (2.9.9-4 -> 2.9.10-2)
+[2020-04-05T16:47:45+0530] [ALPM] upgraded bsdcpio (3.3.3-3 -> 3.4.2-2)
+[2020-04-05T16:47:45+0530] [ALPM] upgraded bsdtar (3.3.3-3 -> 3.4.2-2)
+[2020-04-05T16:47:46+0530] [ALPM] upgraded bzip2 (1.0.6-2 -> 1.0.8-1)
+[2020-04-05T16:47:46+0530] [ALPM] upgraded libopenssl (1.1.1.b-1 -> 1.1.1.e-1)
+[2020-04-05T16:50:54+0530] [ALPM] upgraded openssl (1.1.1.b-1 -> 1.1.1.e-1)
+[2020-04-05T16:51:02+0530] [ALPM] upgraded findutils (4.6.0-1 -> 4.7.0-1)
+[2020-04-05T16:51:08+0530] [ALPM] upgraded sed (4.7-1 -> 4.8-1)
+[2020-04-05T16:51:09+0530] [ALPM] upgraded libpcre (8.43-2 -> 8.44-1)
+[2020-04-05T16:51:09+0530] [ALPM] upgraded less (530-1 -> 551-1)
+[2020-04-05T16:51:14+0530] [ALPM] upgraded libtasn1 (4.13-1 -> 4.16.0-1)
+[2020-04-05T16:51:17+0530] [ALPM] upgraded libgpg-error (1.36-1 -> 1.37-1)
+[2020-04-05T16:51:18+0530] [ALPM] upgraded libgcrypt (1.8.4-1 -> 1.8.5-1)
+[2020-04-05T16:51:19+0530] [ALPM] upgraded libxslt (1.1.33-2 -> 1.1.34-1)
+[2020-04-05T16:51:36+0530] [ALPM] upgraded glib2 (2.54.3-1 -> 2.54.3-2)
+[2020-04-05T16:51:36+0530] [ALPM] upgraded libp11-kit (0.23.15-1 -> 0.23.20-1)
+[2020-04-05T16:51:37+0530] [ALPM] upgraded p11-kit (0.23.15-1 -> 0.23.20-1)
+[2020-04-05T16:51:40+0530] [ALPM] upgraded ca-certificates (20180409-1 -> 20190110-1)
+[2020-04-05T16:51:49+0530] [ALPM] upgraded libedit (3.1-20170329 -> 20191231_3.1-1)
+[2020-04-05T16:51:49+0530] [ALPM] upgraded libsqlite (3.28.0-1 -> 3.30.0-1)
+[2020-04-05T16:51:50+0530] [ALPM] upgraded heimdal-libs (7.5.0-3 -> 7.7.0-1)
+[2020-04-05T16:51:51+0530] [ALPM] upgraded libidn2 (2.1.1a-1 -> 2.3.0-1)
+[2020-04-05T16:51:52+0530] [ALPM] upgraded libnghttp2 (1.36.0-1 -> 1.40.0-1)
+[2020-04-05T16:51:52+0530] [ALPM] upgraded libpsl (0.20.2-3 -> 0.21.0-1)
+[2020-04-05T16:51:54+0530] [ALPM] upgraded libssh2 (1.8.2-1 -> 1.9.0-1)
+[2020-04-05T16:51:54+0530] [ALPM] upgraded libcurl (7.65.0-1 -> 7.69.1-1)
+[2020-04-05T16:52:08+0530] [ALPM] upgraded curl (7.65.0-1 -> 7.69.1-1)
+[2020-04-05T16:52:09+0530] [ALPM] upgraded dtc (1.5.0-1 -> 1.6.0-1)
+[2020-04-05T16:52:10+0530] [ALPM] upgraded file (5.37-1 -> 5.38-2)
+[2020-04-05T16:52:16+0530] [ALPM] upgraded gawk (5.0.0-1 -> 5.0.1-1)
+[2020-04-05T16:52:23+0530] [ALPM] upgraded libgnutls (3.6.7.1-1 -> 3.6.12-1)
+[2020-04-05T16:52:27+0530] [ALPM] upgraded nettle (3.4.1-1 -> 3.5.1-1)
+[2020-04-05T16:52:32+0530] [ALPM] upgraded gnupg (2.2.15-2 -> 2.2.20-1)
+[2020-04-05T16:52:43+0530] [ALPM-SCRIPTLET] ==> Appending keys from msys2.gpg...
+[2020-04-05T16:52:43+0530] [ALPM-SCRIPTLET] ==> Locally signing trusted keys in keyring...
+[2020-04-05T16:52:43+0530] [ALPM-SCRIPTLET]   -> Locally signing key D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2020-04-05T16:52:44+0530] [ALPM-SCRIPTLET]   -> Locally signing key 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2020-04-05T16:52:44+0530] [ALPM-SCRIPTLET]   -> Locally signing key B91BCF3303284BF90CC043CA9F418C233E652008...
+[2020-04-05T16:52:44+0530] [ALPM-SCRIPTLET]   -> Locally signing key 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2020-04-05T16:52:44+0530] [ALPM-SCRIPTLET] ==> Importing owner trust values...
+[2020-04-05T16:52:45+0530] [ALPM-SCRIPTLET] ==> Updating trust database...
+[2020-04-05T16:52:45+0530] [ALPM-SCRIPTLET] gpg: no need for a trustdb check
+[2020-04-05T16:52:46+0530] [ALPM] upgraded libarchive (3.3.3-3 -> 3.4.2-2)
+[2020-04-05T16:52:46+0530] [ALPM] upgraded libgpgme (1.13.0-1 -> 1.13.1-2)
+[2020-04-05T16:52:47+0530] [ALPM] upgraded libpcre16 (8.43-2 -> 8.44-1)
+[2020-04-05T16:52:47+0530] [ALPM] upgraded libpcre2_8 (10.33-2 -> 10.34-1)
+[2020-04-05T16:52:48+0530] [ALPM] upgraded libpcre32 (8.43-2 -> 8.44-1)
+[2020-04-05T16:52:48+0530] [ALPM] upgraded libpcrecpp (8.43-2 -> 8.44-1)
+[2020-04-05T16:52:48+0530] [ALPM] upgraded libpcreposix (8.43-2 -> 8.44-1)
+[2020-04-05T16:52:48+0530] [ALPM] upgraded libutil-linux (2.33.1-1 -> 2.35.1-1)
+[2020-04-05T16:52:53+0530] [ALPM] upgraded pcre (8.43-2 -> 8.44-1)
+[2020-04-05T16:52:56+0530] [ALPM] upgraded xz (5.2.4-1 -> 5.2.5-1)
+[2020-04-05T16:52:56+0530] [ALPM] upgraded pkgfile (19-1 -> 21-1)
+[2020-04-05T16:53:03+0530] [ALPM] upgraded util-linux (2.33.1-1 -> 2.35.1-1)
+[2020-04-05T16:53:03+0530] [ALPM] transaction completed
+[2020-04-05T18:10:29+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gcc'
+[2020-04-05T18:15:04+0530] [ALPM] transaction started
+[2020-04-05T18:15:04+0530] [ALPM] installed mingw-w64-x86_64-libiconv (1.16-1)
+[2020-04-05T18:15:04+0530] [ALPM] installed mingw-w64-x86_64-zlib (1.2.11-7)
+[2020-04-05T18:15:07+0530] [ALPM] installed mingw-w64-x86_64-binutils (2.34-1)
+[2020-04-05T18:15:13+0530] [ALPM] installed mingw-w64-x86_64-headers-git (8.0.0.5685.ef310786-1)
+[2020-04-05T18:15:20+0530] [ALPM] installed mingw-w64-x86_64-crt-git (8.0.0.5685.ef310786-1)
+[2020-04-05T18:15:23+0530] [ALPM] installed mingw-w64-x86_64-isl (0.22.1-1)
+[2020-04-05T18:15:23+0530] [ALPM] installed mingw-w64-x86_64-gmp (6.2.0-1)
+[2020-04-05T18:15:23+0530] [ALPM] installed mingw-w64-x86_64-mpfr (4.0.2-2)
+[2020-04-05T18:15:23+0530] [ALPM] installed mingw-w64-x86_64-mpc (1.1.0-1)
+[2020-04-05T18:15:23+0530] [ALPM] installed mingw-w64-x86_64-libwinpthread-git (8.0.0.5680.0df6b89f-1)
+[2020-04-05T18:15:23+0530] [ALPM] installed mingw-w64-x86_64-gcc-libs (9.3.0-1)
+[2020-04-05T18:15:23+0530] [ALPM] installed mingw-w64-x86_64-windows-default-manifest (6.4-3)
+[2020-04-05T18:15:23+0530] [ALPM] installed mingw-w64-x86_64-winpthreads-git (8.0.0.5680.0df6b89f-1)
+[2020-04-05T18:15:34+0530] [ALPM] installed mingw-w64-x86_64-gcc (9.3.0-1)
+[2020-04-05T18:15:34+0530] [ALPM] transaction completed
+[2020-04-05T18:17:18+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-toolchain'
+[2020-04-05T18:28:24+0530] [ALPM] transaction started
+[2020-04-05T18:28:27+0530] [ALPM] reinstalled mingw-w64-x86_64-binutils (2.34-1)
+[2020-04-05T18:28:33+0530] [ALPM] reinstalled mingw-w64-x86_64-headers-git (8.0.0.5685.ef310786-1)
+[2020-04-05T18:28:38+0530] [ALPM] reinstalled mingw-w64-x86_64-crt-git (8.0.0.5685.ef310786-1)
+[2020-04-05T18:28:38+0530] [ALPM] reinstalled mingw-w64-x86_64-libwinpthread-git (8.0.0.5680.0df6b89f-1)
+[2020-04-05T18:28:38+0530] [ALPM] reinstalled mingw-w64-x86_64-gcc-libs (9.3.0-1)
+[2020-04-05T18:28:38+0530] [ALPM] reinstalled mingw-w64-x86_64-winpthreads-git (8.0.0.5680.0df6b89f-1)
+[2020-04-05T18:28:54+0530] [ALPM] reinstalled mingw-w64-x86_64-gcc (9.3.0-1)
+[2020-04-05T18:29:09+0530] [ALPM] installed mingw-w64-x86_64-gcc-ada (9.3.0-1)
+[2020-04-05T18:29:10+0530] [ALPM] installed mingw-w64-x86_64-gcc-libgfortran (9.3.0-1)
+[2020-04-05T18:29:11+0530] [ALPM] installed mingw-w64-x86_64-gcc-fortran (9.3.0-1)
+[2020-04-05T18:29:12+0530] [ALPM] installed mingw-w64-x86_64-gcc-objc (9.3.0-1)
+[2020-04-05T18:29:12+0530] [ALPM] installed mingw-w64-x86_64-expat (2.2.9-1)
+[2020-04-05T18:29:23+0530] [ALPM] installed mingw-w64-x86_64-gettext (0.19.8.1-8)
+[2020-04-05T18:29:23+0530] [ALPM] installed mingw-w64-x86_64-libtre-git (r128.6fb7206-2)
+[2020-04-05T18:29:23+0530] [ALPM] installed mingw-w64-x86_64-libsystre (1.0.1-4)
+[2020-04-05T18:29:43+0530] [ALPM] installed mingw-w64-x86_64-ncurses (6.2-1)
+[2020-04-05T18:29:43+0530] [ALPM] installed mingw-w64-x86_64-bzip2 (1.0.8-1)
+[2020-04-05T18:29:43+0530] [ALPM] installed mingw-w64-x86_64-libffi (3.2.1-4)
+[2020-04-05T18:29:43+0530] [ALPM] installed mingw-w64-x86_64-mpdecimal (2.4.2-1)
+[2020-04-05T18:29:43+0530] [ALPM] installed mingw-w64-x86_64-libtasn1 (4.16.0-1)
+[2020-04-05T18:29:43+0530] [ALPM] installed mingw-w64-x86_64-p11-kit (0.23.20-1)
+[2020-04-05T18:29:43+0530] [ALPM] installed mingw-w64-x86_64-ca-certificates (20190110-1)
+[2020-04-05T18:30:12+0530] [ALPM] installed mingw-w64-x86_64-openssl (1.1.1.f-1)
+[2020-04-05T18:30:12+0530] [ALPM] installed mingw-w64-x86_64-termcap (1.3.1-5)
+[2020-04-05T18:30:12+0530] [ALPM] installed mingw-w64-x86_64-readline (8.0.004-1)
+[2020-04-05T18:30:19+0530] [ALPM] installed mingw-w64-x86_64-tcl (8.6.10-1)
+[2020-04-05T18:30:23+0530] [ALPM] installed mingw-w64-x86_64-sqlite3 (3.31.1-1)
+[2020-04-05T18:30:26+0530] [ALPM] installed mingw-w64-x86_64-tk (8.6.10-1)
+[2020-04-05T18:30:26+0530] [ALPM] installed mingw-w64-x86_64-xz (5.2.5-1)
+[2020-04-05T18:30:53+0530] [ALPM] installed mingw-w64-x86_64-python (3.8.2-1)
+[2020-04-05T18:30:53+0530] [ALPM] installed mingw-w64-x86_64-xxhash (0.7.3-1)
+[2020-04-05T18:30:54+0530] [ALPM] installed mingw-w64-x86_64-gdb (9.1-3)
+[2020-04-05T18:30:54+0530] [ALPM] installed mingw-w64-x86_64-libmangle-git (8.0.0.5573.a4de8df4-1)
+[2020-04-05T18:30:54+0530] [ALPM] installed mingw-w64-x86_64-make (4.3-1)
+[2020-04-05T18:30:54+0530] [ALPM] installed mingw-w64-x86_64-pkg-config (0.29.2-1)
+[2020-04-05T18:30:54+0530] [ALPM] installed mingw-w64-x86_64-tools-git (8.0.0.5573.a4de8df4-1)
+[2020-04-05T18:30:54+0530] [ALPM] installed mingw-w64-x86_64-winstorecompat-git (8.0.0.5573.a4de8df4-1)
+[2020-04-05T18:30:54+0530] [ALPM] transaction completed
+[2020-04-05T21:28:19+0530] [PACMAN] Running 'pacman -S mingw-w64-lapack'
+[2020-04-05T21:29:19+0530] [PACMAN] Running 'pacman -S mingw-w64-lapack'
+[2020-04-05T21:29:28+0530] [PACMAN] Running 'pacman -S lapack'
+[2020-04-05T21:29:34+0530] [PACMAN] Running 'pacman -S lapack*'
+[2020-04-05T21:30:31+0530] [PACMAN] Running 'pacman -S make'
+[2020-04-05T21:30:43+0530] [ALPM] transaction started
+[2020-04-05T21:30:44+0530] [ALPM] installed make (4.3-1)
+[2020-04-05T21:30:45+0530] [ALPM] transaction completed
+[2020-04-05T21:30:54+0530] [PACMAN] Running 'pacman -S blas'
+[2020-04-05T21:31:33+0530] [PACMAN] Running 'pacman -Syu'
+[2020-04-05T21:31:33+0530] [PACMAN] synchronizing package lists
+[2020-04-05T21:31:35+0530] [PACMAN] starting core system upgrade
+[2020-04-05T21:31:35+0530] [PACMAN] starting full system upgrade
+[2020-04-05T21:31:45+0530] [PACMAN] Running 'pacman -Su'
+[2020-04-05T21:31:45+0530] [PACMAN] starting core system upgrade
+[2020-04-05T21:31:45+0530] [PACMAN] starting full system upgrade
+[2020-04-05T21:33:15+0530] [PACMAN] Running 'pacman -S mingw-w64-cmake'
+[2020-04-05T21:33:27+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-cmake'
+[2020-04-05T21:35:32+0530] [ALPM] transaction started
+[2020-04-05T21:35:33+0530] [ALPM] installed mingw-w64-x86_64-c-ares (1.16.0-1)
+[2020-04-05T21:35:33+0530] [ALPM] installed mingw-w64-x86_64-brotli (1.0.7-4)
+[2020-04-05T21:35:33+0530] [ALPM] installed mingw-w64-x86_64-libunistring (0.9.10-1)
+[2020-04-05T21:35:33+0530] [ALPM] installed mingw-w64-x86_64-libidn2 (2.3.0-1)
+[2020-04-05T21:35:33+0530] [ALPM] installed mingw-w64-x86_64-libmetalink (0.1.3-3)
+[2020-04-05T21:35:33+0530] [ALPM] installed mingw-w64-x86_64-libpsl (0.21.0-2)
+[2020-04-05T21:35:34+0530] [ALPM] installed mingw-w64-x86_64-libssh2 (1.9.0-1)
+[2020-04-05T21:35:34+0530] [ALPM] installed mingw-w64-x86_64-jansson (2.12-1)
+[2020-04-05T21:35:34+0530] [ALPM] installed mingw-w64-x86_64-jemalloc (5.2.1-1)
+[2020-04-05T21:35:35+0530] [ALPM] installed mingw-w64-x86_64-nghttp2 (1.40.0-2)
+[2020-04-05T21:35:36+0530] [ALPM] installed mingw-w64-x86_64-curl (7.69.1-2)
+[2020-04-05T21:35:36+0530] [ALPM] installed mingw-w64-x86_64-jsoncpp (1.9.1-2)
+[2020-04-05T21:35:36+0530] [ALPM] installed mingw-w64-x86_64-lz4 (1.9.2-1)
+[2020-04-05T21:35:37+0530] [ALPM] installed mingw-w64-x86_64-nettle (3.5.1-1)
+[2020-04-05T21:35:37+0530] [ALPM] installed mingw-w64-x86_64-zstd (1.4.4-1)
+[2020-04-05T21:35:37+0530] [ALPM] installed mingw-w64-x86_64-libarchive (3.4.2-2)
+[2020-04-05T21:35:37+0530] [ALPM] installed mingw-w64-x86_64-libuv (1.35.0-1)
+[2020-04-05T21:35:37+0530] [ALPM] installed mingw-w64-x86_64-rhash (1.3.9-1)
+[2020-04-05T21:36:03+0530] [ALPM] installed mingw-w64-x86_64-cmake (3.17.0-1)
+[2020-04-05T21:36:03+0530] [ALPM] transaction completed
+[2020-04-05T21:36:47+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-blas'
+[2020-04-05T21:36:56+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-lapack'
+[2020-04-05T21:37:19+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-lapack'
+[2020-04-05T21:37:52+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-openblas'
+[2020-04-05T21:38:41+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-blas'
+[2020-04-05T21:38:49+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-lapack'
+[2020-04-05T21:39:30+0530] [ALPM] transaction started
+[2020-04-05T21:39:31+0530] [ALPM] installed mingw-w64-x86_64-lapack (3.8.0-5)
+[2020-04-05T21:39:31+0530] [ALPM] transaction completed
+[2020-04-05T21:41:16+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-blas'
+[2020-04-05T21:41:24+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-openblas'
+[2020-04-05T21:43:23+0530] [ALPM] transaction started
+[2020-04-05T21:43:24+0530] [ALPM] installed mingw-w64-x86_64-openblas (0.3.9-1)
+[2020-04-05T21:43:24+0530] [ALPM-SCRIPTLET] Set the environment variable OPENBLAS_NUM_THREADS to the
+[2020-04-05T21:43:24+0530] [ALPM-SCRIPTLET] number of threads to use.
+[2020-04-05T21:43:24+0530] [ALPM] transaction completed
+[2020-04-05T21:44:35+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-rpack'
+[2020-04-05T21:45:02+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-arpack'
+[2020-04-05T21:45:08+0530] [ALPM] transaction started
+[2020-04-05T21:45:08+0530] [ALPM] installed mingw-w64-x86_64-arpack (3.7.0-2)
+[2020-04-05T21:45:08+0530] [ALPM] transaction completed
+[2020-04-05T21:45:23+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-superly'
+[2020-04-05T21:45:27+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-superlu'
+[2020-04-05T21:57:57+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-pip'
+[2020-04-05T22:19:59+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-pthread'
+[2020-04-05T22:21:34+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-zlib'
+[2020-04-05T22:21:36+0530] [ALPM] transaction started
+[2020-04-05T22:21:36+0530] [ALPM] reinstalled mingw-w64-x86_64-zlib (1.2.11-7)
+[2020-04-05T22:21:36+0530] [ALPM] transaction completed
+[2020-04-05T22:22:00+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-hdf5'
+[2020-04-05T22:23:06+0530] [ALPM] transaction started
+[2020-04-05T22:23:06+0530] [ALPM] installed mingw-w64-x86_64-szip (2.1.1-2)
+[2020-04-05T22:23:08+0530] [ALPM] installed mingw-w64-x86_64-hdf5 (1.10.5-1)
+[2020-04-05T22:23:08+0530] [ALPM] transaction completed
+[2020-04-05T22:34:31+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-zlib'
+[2020-04-05T22:34:33+0530] [ALPM] transaction started
+[2020-04-05T22:34:33+0530] [ALPM] reinstalled mingw-w64-x86_64-zlib (1.2.11-7)
+[2020-04-05T22:34:33+0530] [ALPM] transaction completed
+[2020-04-05T23:26:20+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-hdf5'
+[2020-04-05T23:26:23+0530] [ALPM] transaction started
+[2020-04-05T23:26:25+0530] [ALPM] reinstalled mingw-w64-x86_64-hdf5 (1.10.5-1)
+[2020-04-05T23:26:25+0530] [ALPM] transaction completed
+[2020-04-06T01:04:33+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-bzip2'
+[2020-04-06T01:04:43+0530] [ALPM] transaction started
+[2020-04-06T01:04:43+0530] [ALPM] reinstalled mingw-w64-x86_64-bzip2 (1.0.8-1)
+[2020-04-06T01:04:43+0530] [ALPM] transaction completed
+[2020-04-06T01:05:25+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-fftw'
+[2020-04-06T01:05:55+0530] [ALPM] transaction started
+[2020-04-06T01:05:56+0530] [ALPM] installed mingw-w64-x86_64-fftw (3.3.8-1)
+[2020-04-06T01:05:56+0530] [ALPM] transaction completed
+[2020-04-06T01:09:14+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gdal'
+[2020-04-06T01:16:09+0530] [ALPM] transaction started
+[2020-04-06T01:16:10+0530] [ALPM] installed mingw-w64-x86_64-cfitsio (3.450-1)
+[2020-04-06T01:16:11+0530] [ALPM] installed mingw-w64-x86_64-crypto++ (8.2.0-2)
+[2020-04-06T01:16:13+0530] [ALPM] installed mingw-w64-x86_64-geos (3.8.0-1)
+[2020-04-06T01:16:13+0530] [ALPM] installed mingw-w64-x86_64-giflib (5.2.1-1)
+[2020-04-06T01:16:13+0530] [ALPM] installed mingw-w64-x86_64-freeglut (3.2.1-1)
+[2020-04-06T01:16:13+0530] [ALPM] installed mingw-w64-x86_64-libjpeg-turbo (2.0.4-1)
+[2020-04-06T01:16:17+0530] [ALPM] installed mingw-w64-x86_64-jasper (2.0.16-1)
+[2020-04-06T01:16:17+0530] [ALPM] installed mingw-w64-x86_64-json-c (0.13.1_20180305-1)
+[2020-04-06T01:16:17+0530] [ALPM] installed mingw-w64-x86_64-libfreexl (1.0.5-1)
+[2020-04-06T01:16:18+0530] [ALPM] installed mingw-w64-x86_64-libtiff (4.1.0-1)
+[2020-04-06T01:16:18+0530] [ALPM] installed mingw-w64-x86_64-proj (6.3.1-1)
+[2020-04-06T01:16:18+0530] [ALPM] installed mingw-w64-x86_64-libgeotiff (1.5.1-1)
+[2020-04-06T01:16:26+0530] [ALPM] installed mingw-w64-x86_64-icu (65.1-1)
+[2020-04-06T01:17:38+0530] [ALPM] installed mingw-w64-x86_64-boost (1.72.0-1)
+[2020-04-06T01:17:38+0530] [ALPM] installed mingw-w64-x86_64-minizip-git (1.2.445.e67b996-1)
+[2020-04-06T01:17:38+0530] [ALPM] installed mingw-w64-x86_64-uriparser (0.9.3-2)
+[2020-04-06T01:17:39+0530] [ALPM] installed mingw-w64-x86_64-libkml (1.3.0-8)
+[2020-04-06T01:17:39+0530] [ALPM] installed mingw-w64-x86_64-libpng (1.6.37-3)
+[2020-04-06T01:17:41+0530] [ALPM] installed mingw-w64-x86_64-libxml2 (2.9.10-3)
+[2020-04-06T01:17:45+0530] [ALPM] installed mingw-w64-x86_64-libspatialite (4.3.0.a-4)
+[2020-04-06T01:17:45+0530] [ALPM] installed mingw-w64-x86_64-libwebp (1.1.0-1)
+[2020-04-06T01:17:45+0530] [ALPM] installed mingw-w64-x86_64-netcdf (4.7.3-1)
+[2020-04-06T01:17:45+0530] [ALPM] installed mingw-w64-x86_64-lcms2 (2.9-1)
+[2020-04-06T01:17:46+0530] [ALPM] installed mingw-w64-x86_64-openjpeg2 (2.3.1-1)
+[2020-04-06T01:17:46+0530] [ALPM] installed mingw-w64-x86_64-wineditline (2.205-3)
+[2020-04-06T01:17:47+0530] [ALPM] installed mingw-w64-x86_64-pcre (8.44-1)
+[2020-04-06T01:17:49+0530] [ALPM] installed mingw-w64-x86_64-glib2 (2.64.1-1)
+[2020-04-06T01:17:51+0530] [ALPM-SCRIPTLET] No schema files found: doing nothing.
+[2020-04-06T01:17:51+0530] [ALPM-SCRIPTLET] /
+[2020-04-06T01:17:52+0530] [ALPM] installed mingw-w64-x86_64-graphite2 (1.3.14-1)
+[2020-04-06T01:17:52+0530] [ALPM] installed mingw-w64-x86_64-harfbuzz (2.6.4-3)
+[2020-04-06T01:17:53+0530] [ALPM] installed mingw-w64-x86_64-freetype (2.10.1-1)
+[2020-04-06T01:17:53+0530] [ALPM] installed mingw-w64-x86_64-fontconfig (2.13.1-1)
+[2020-04-06T01:17:54+0530] [ALPM-SCRIPTLET] 
+[2020-04-06T01:17:54+0530] [ALPM-SCRIPTLET]   Fontconfig configuration is done via /mingw64/etc/fonts/conf.avail and conf.d.
+[2020-04-06T01:17:54+0530] [ALPM-SCRIPTLET]   Read /mingw64/etc/fonts/conf.d/README for more information.
+[2020-04-06T01:17:54+0530] [ALPM-SCRIPTLET] 
+[2020-04-06T01:18:14+0530] [ALPM-SCRIPTLET] updating font cache... done.
+[2020-04-06T01:18:14+0530] [ALPM] installed mingw-w64-x86_64-lzo2 (2.10-1)
+[2020-04-06T01:18:14+0530] [ALPM] installed mingw-w64-x86_64-pixman (0.38.4-1)
+[2020-04-06T01:18:15+0530] [ALPM] installed mingw-w64-x86_64-cairo (1.16.0-1)
+[2020-04-06T01:18:15+0530] [ALPM] installed mingw-w64-x86_64-nspr (4.25-1)
+[2020-04-06T01:18:16+0530] [ALPM] installed mingw-w64-x86_64-nss (3.51-1)
+[2020-04-06T01:18:17+0530] [ALPM] installed mingw-w64-x86_64-poppler-data (0.4.9-1)
+[2020-04-06T01:18:18+0530] [ALPM] installed mingw-w64-x86_64-poppler (0.86.1-1)
+[2020-04-06T01:18:18+0530] [ALPM] installed mingw-w64-x86_64-libgpg-error (1.37-1)
+[2020-04-06T01:18:18+0530] [ALPM] installed mingw-w64-x86_64-libgcrypt (1.8.5-1)
+[2020-04-06T01:18:19+0530] [ALPM] installed mingw-w64-x86_64-libxslt (1.1.34-2)
+[2020-04-06T01:18:19+0530] [ALPM] installed winpty (0.4.3-1)
+[2020-04-06T01:18:27+0530] [ALPM] installed mingw-w64-x86_64-postgresql (12.2-1)
+[2020-04-06T01:18:27+0530] [ALPM] installed mingw-w64-x86_64-qhull-git (r166.f1f8b42-1)
+[2020-04-06T01:18:29+0530] [ALPM] installed mingw-w64-x86_64-xerces-c (3.2.2-3)
+[2020-04-06T01:18:31+0530] [ALPM] installed mingw-w64-x86_64-gdal (3.0.4-2)
+[2020-04-06T01:18:31+0530] [ALPM] transaction completed
+[2020-04-06T01:33:59+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gdal'
+[2020-04-06T01:34:06+0530] [ALPM] transaction started
+[2020-04-06T01:34:10+0530] [ALPM] reinstalled mingw-w64-x86_64-gdal (3.0.4-2)
+[2020-04-06T01:34:10+0530] [ALPM] transaction completed
+[2020-04-06T01:34:27+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-boost'
+[2020-04-06T01:34:41+0530] [ALPM] transaction started
+[2020-04-06T01:37:09+0530] [ALPM] reinstalled mingw-w64-x86_64-boost (1.72.0-1)
+[2020-04-06T01:37:09+0530] [ALPM] transaction completed
+[2020-04-06T01:37:50+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-pip'
+[2020-04-06T01:38:33+0530] [ALPM] transaction started
+[2020-04-06T01:38:33+0530] [ALPM] installed mingw-w64-x86_64-python-appdirs (1.4.3-1)
+[2020-04-06T01:38:33+0530] [ALPM] installed mingw-w64-x86_64-python-msgpack (1.0.0-1)
+[2020-04-06T01:38:33+0530] [ALPM] installed mingw-w64-x86_64-python-certifi (2019.11.28-1)
+[2020-04-06T01:38:34+0530] [ALPM] installed mingw-w64-x86_64-python-idna (2.9-1)
+[2020-04-06T01:38:35+0530] [ALPM] installed mingw-w64-x86_64-python-urllib3 (1.25.8-1)
+[2020-04-06T01:38:35+0530] [ALPM] installed mingw-w64-x86_64-python-pyparsing (2.4.6-1)
+[2020-04-06T01:38:35+0530] [ALPM] installed mingw-w64-x86_64-python-six (1.14.0-1)
+[2020-04-06T01:38:36+0530] [ALPM] installed mingw-w64-x86_64-python-attrs (19.3.0-1)
+[2020-04-06T01:38:36+0530] [ALPM] installed mingw-w64-x86_64-python-packaging (20.3-1)
+[2020-04-06T01:38:36+0530] [ALPM] installed mingw-w64-x86_64-python-ordered-set (3.1.1-1)
+[2020-04-06T01:38:38+0530] [ALPM] installed mingw-w64-x86_64-python-setuptools (46.1.3-1)
+[2020-04-06T01:38:38+0530] [ALPM-SCRIPTLET] /
+[2020-04-06T01:38:40+0530] [ALPM] installed mingw-w64-x86_64-python-chardet (3.0.4-1)
+[2020-04-06T01:38:41+0530] [ALPM] installed mingw-w64-x86_64-python-requests (2.23.0-1)
+[2020-04-06T01:38:43+0530] [ALPM] installed mingw-w64-x86_64-python-cachecontrol (0.12.6-1)
+[2020-04-06T01:38:43+0530] [ALPM-SCRIPTLET] /
+[2020-04-06T01:38:43+0530] [ALPM] installed mingw-w64-x86_64-python-colorama (0.4.3-1)
+[2020-04-06T01:38:43+0530] [ALPM] installed mingw-w64-x86_64-python-contextlib2 (0.6.0-1)
+[2020-04-06T01:38:44+0530] [ALPM] installed mingw-w64-x86_64-python-distlib (0.3.0-1)
+[2020-04-06T01:38:44+0530] [ALPM] installed mingw-w64-x86_64-python-webencodings (0.5.1-1)
+[2020-04-06T01:38:46+0530] [ALPM] installed mingw-w64-x86_64-python-html5lib (1.0.1-1)
+[2020-04-06T01:38:47+0530] [ALPM] installed mingw-w64-x86_64-python-lockfile (0.12.2-1)
+[2020-04-06T01:38:49+0530] [ALPM] installed mingw-w64-x86_64-python-pep517 (0.8.1-1)
+[2020-04-06T01:38:50+0530] [ALPM] installed mingw-w64-x86_64-python-progress (1.5-1)
+[2020-04-06T01:38:52+0530] [ALPM] installed mingw-w64-x86_64-python-pytoml (0.1.21-1)
+[2020-04-06T01:38:52+0530] [ALPM] installed mingw-w64-x86_64-python-retrying (1.3.3-1)
+[2020-04-06T01:38:56+0530] [ALPM] installed mingw-w64-x86_64-python-pip (20.0.2-1)
+[2020-04-06T01:38:56+0530] [ALPM-SCRIPTLET] /
+[2020-04-06T01:38:57+0530] [ALPM] transaction completed
+[2020-04-06T01:39:45+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-numpy'
+[2020-04-06T01:40:02+0530] [ALPM] transaction started
+[2020-04-06T01:40:11+0530] [ALPM] installed mingw-w64-x86_64-python-numpy (1.18.2-1)
+[2020-04-06T01:40:11+0530] [ALPM] transaction completed
+[2020-04-06T01:40:32+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-pytest'
+[2020-04-06T01:40:48+0530] [ALPM] transaction started
+[2020-04-06T01:40:49+0530] [ALPM] installed mingw-w64-x86_64-python-atomicwrites (1.3.0-1)
+[2020-04-06T01:40:49+0530] [ALPM] installed mingw-w64-x86_64-python-more-itertools (8.2.0-1)
+[2020-04-06T01:40:49+0530] [ALPM] installed mingw-w64-x86_64-python-pluggy (0.13.1-1)
+[2020-04-06T01:40:49+0530] [ALPM] installed mingw-w64-x86_64-python-iniconfig (1.0.0-1)
+[2020-04-06T01:40:49+0530] [ALPM] installed mingw-w64-x86_64-python-apipkg (1.5-1)
+[2020-04-06T01:40:50+0530] [ALPM] installed mingw-w64-x86_64-python-py (1.8.1-1)
+[2020-04-06T01:40:50+0530] [ALPM] installed mingw-w64-x86_64-python-wcwidth (0.1.8-1)
+[2020-04-06T01:40:51+0530] [ALPM] installed mingw-w64-x86_64-python-pytest (5.4.1-1)
+[2020-04-06T01:40:51+0530] [ALPM-SCRIPTLET] /
+[2020-04-06T01:40:51+0530] [ALPM] transaction completed
+[2020-04-06T10:45:00+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gnuplot-qt'
+[2020-04-06T10:45:04+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gnuplot'
+[2020-04-06T10:46:29+0530] [ALPM] transaction started
+[2020-04-06T10:46:33+0530] [ALPM] installed mingw-w64-x86_64-gnutls (3.6.13-1)
+[2020-04-06T10:46:33+0530] [ALPM] installed mingw-w64-x86_64-libcaca (0.99.beta19-5)
+[2020-04-06T10:46:34+0530] [ALPM] installed mingw-w64-x86_64-libcerf (1.13-1)
+[2020-04-06T10:46:34+0530] [ALPM] installed mingw-w64-x86_64-libimagequant (2.12.6-1)
+[2020-04-06T10:46:34+0530] [ALPM] installed mingw-w64-x86_64-xpm-nox (4.2.0-5)
+[2020-04-06T10:46:34+0530] [ALPM] installed mingw-w64-x86_64-libgd (2.3.0-1)
+[2020-04-06T10:46:34+0530] [ALPM] installed mingw-w64-x86_64-fribidi (1.0.9-1)
+[2020-04-06T10:46:35+0530] [ALPM] installed mingw-w64-x86_64-libdatrie (0.2.12-1)
+[2020-04-06T10:46:36+0530] [ALPM] installed mingw-w64-x86_64-libthai (0.1.28-2)
+[2020-04-06T10:46:37+0530] [ALPM] installed mingw-w64-x86_64-pango (1.43.0-3)
+[2020-04-06T10:46:48+0530] [ALPM] installed mingw-w64-x86_64-wxWidgets (3.0.4-3)
+[2020-04-06T10:46:49+0530] [ALPM] installed mingw-w64-x86_64-gnuplot (5.2.8-1)
+[2020-04-06T10:46:49+0530] [ALPM] transaction completed
+[2020-04-06T15:42:50+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gnuplot'
+[2020-04-06T15:42:52+0530] [ALPM] transaction started
+[2020-04-06T15:42:53+0530] [ALPM] reinstalled mingw-w64-x86_64-gnuplot (5.2.8-1)
+[2020-04-06T15:42:53+0530] [ALPM] transaction completed
+[2020-04-06T15:42:59+0530] [PACMAN] Running 'pacman -R mingw-w64-x86_64-gnuplot'
+[2020-04-06T15:43:01+0530] [ALPM] transaction started
+[2020-04-06T15:43:05+0530] [ALPM] removed mingw-w64-x86_64-gnuplot (5.2.8-1)
+[2020-04-06T15:43:05+0530] [ALPM] transaction completed
+[2020-04-07T00:45:19+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-matplotlib'
+[2020-04-07T00:46:43+0530] [ALPM] transaction started
+[2020-04-07T00:46:46+0530] [ALPM] installed mingw-w64-x86_64-python-pytz (2019.3-1)
+[2020-04-07T00:46:46+0530] [ALPM] installed mingw-w64-x86_64-python-cycler (0.10.0-1)
+[2020-04-07T00:46:47+0530] [ALPM] installed mingw-w64-x86_64-python-dateutil (2.8.1-1)
+[2020-04-07T00:46:47+0530] [ALPM] installed mingw-w64-x86_64-python-kiwisolver (1.1.0-1)
+[2020-04-07T00:47:10+0530] [ALPM] installed mingw-w64-x86_64-python-matplotlib (3.2.1-1)
+[2020-04-07T00:47:10+0530] [ALPM] transaction completed
+[2020-04-07T00:47:45+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-ipython'
+[2020-04-07T00:48:19+0530] [ALPM] transaction started
+[2020-04-07T00:48:20+0530] [ALPM] installed mingw-w64-x86_64-python-parso (0.6.2-1)
+[2020-04-07T00:48:32+0530] [ALPM] installed mingw-w64-x86_64-python-jedi (0.16.0-1)
+[2020-04-07T00:48:32+0530] [ALPM] installed mingw-w64-x86_64-python-decorator (4.4.2-1)
+[2020-04-07T00:48:33+0530] [ALPM] installed mingw-w64-x86_64-python-zipp (3.1.0-1)
+[2020-04-07T00:48:34+0530] [ALPM] installed mingw-w64-x86_64-python-importlib-metadata (1.5.0-1)
+[2020-04-07T00:48:34+0530] [ALPM] installed mingw-w64-x86_64-python-path (13.2.0-1)
+[2020-04-07T00:48:35+0530] [ALPM] installed mingw-w64-x86_64-python-pickleshare (0.7.5-1)
+[2020-04-07T00:48:35+0530] [ALPM] installed mingw-w64-x86_64-python-simplegeneric (0.8.1-1)
+[2020-04-07T00:48:36+0530] [ALPM] installed mingw-w64-x86_64-python-ipython_genutils (0.2.0-1)
+[2020-04-07T00:48:36+0530] [ALPM] installed mingw-w64-x86_64-python-traitlets (4.3.3-1)
+[2020-04-07T00:48:40+0530] [ALPM] installed mingw-w64-x86_64-python-pygments (2.6.1-1)
+[2020-04-07T00:48:40+0530] [ALPM-SCRIPTLET] /
+[2020-04-07T00:48:49+0530] [ALPM] installed mingw-w64-x86_64-python-prompt_toolkit (3.0.4-1)
+[2020-04-07T00:48:49+0530] [ALPM] installed mingw-w64-x86_64-python-backcall (0.1.0-1)
+[2020-04-07T00:48:49+0530] [ALPM] installed mingw-w64-x86_64-python-ptyprocess (0.6.0-1)
+[2020-04-07T00:48:49+0530] [ALPM] installed mingw-w64-x86_64-python-pexpect (4.8.0-1)
+[2020-04-07T00:48:49+0530] [ALPM] installed mingw-w64-x86_64-python-win_unicode_console (0.5-1)
+[2020-04-07T00:48:52+0530] [ALPM] installed mingw-w64-x86_64-python-ipython (7.13.0-1)
+[2020-04-07T00:48:52+0530] [ALPM-SCRIPTLET] /
+[2020-04-07T00:48:52+0530] [ALPM] transaction completed
+[2020-04-07T00:49:31+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-qt5'
+[2020-04-07T01:12:17+0530] [ALPM] transaction started
+[2020-04-07T01:12:17+0530] [ALPM] installed mingw-w64-x86_64-qtbinpatcher (2.2.0-4)
+[2020-04-07T01:12:19+0530] [ALPM] installed mingw-w64-x86_64-z3 (4.8.7-1)
+[2020-04-07T01:12:20+0530] [ALPM] installed mingw-w64-x86_64-zziplib (0.13.69-2)
+[2020-04-07T01:12:20+0530] [ALPM] installed mingw-w64-x86_64-assimp (5.0.1-1)
+[2020-04-07T01:12:20+0530] [ALPM] installed mingw-w64-x86_64-double-conversion (3.1.5-1)
+[2020-04-07T01:12:22+0530] [ALPM] installed mingw-w64-x86_64-dbus (1.12.16-3)
+[2020-04-07T01:12:22+0530] [ALPM] installed mingw-w64-x86_64-libmng (2.0.3-4)
+[2020-04-07T01:12:22+0530] [ALPM] installed mingw-w64-x86_64-openal (1.20.1-1)
+[2020-04-07T01:12:24+0530] [ALPM] installed mingw-w64-x86_64-pcre2 (10.34-1)
+[2020-04-07T01:12:24+0530] [ALPM] installed mingw-w64-x86_64-vulkan-headers (1.2.136-1)
+[2020-04-07T01:12:24+0530] [ALPM] installed mingw-w64-x86_64-vulkan-loader (1.2.135-1)
+[2020-04-07T01:12:26+0530] [ALPM] installed mingw-w64-x86_64-icu-debug-libs (65.1-1)
+[2020-04-07T01:13:48+0530] [ALPM] installed mingw-w64-x86_64-qt5 (5.14.2-2)
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QtBinPatcher v2.2.0. Tool for patching paths in Qt binaries.
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Yuri V. Krugloff, 2013-2015. http://www.tver-soft.org
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] This is free software released into the public domain.
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Parsed command line options:
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   force 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   nobackup 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   old-dir "@@QT_REAL_PREFIX/dir@@"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   verbose 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Working directory: "C:/msys64/mingw64/bin".
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Binary file location: "C:\msys64\mingw64\bin\qtbinpatcher.exe".
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Path to "qmake.exe": "C:/msys64/mingw64/bin/".
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Skipping backup of file "C:/msys64/mingw64/bin/qt.conf" - file not found.
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] qmake command line: ""C:/msys64/mingw64/bin/qmake.exe" -query".
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] >>>>>>>>>> BEGIN QMAKE OUTPUT >>>>>>>>>>
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_SYSROOT:
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_PREFIX:C:/msys64/mingw64
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_ARCHDATA:C:/msys64/mingw64/share/qt5
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_DATA:C:/msys64/mingw64/share/qt5
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_DOCS:C:/msys64/mingw64/share/qt5/doc
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_HEADERS:C:/msys64/mingw64/include
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_LIBS:C:/msys64/mingw64/lib
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_LIBEXECS:C:/msys64/mingw64/share/qt5/bin
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_BINS:C:/msys64/mingw64/bin
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_TESTS:C:/msys64/mingw64/share/qt5/tests
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_PLUGINS:C:/msys64/mingw64/share/qt5/plugins
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_IMPORTS:C:/msys64/mingw64/share/qt5/imports
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_QML:C:/msys64/mingw64/share/qt5/qml
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_TRANSLATIONS:C:/msys64/mingw64/share/qt5/translations
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_CONFIGURATION:
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_EXAMPLES:C:/msys64/mingw64/share/qt5/examples
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_INSTALL_DEMOS:C:/msys64/mingw64/share/qt5/examples
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_HOST_PREFIX:C:/msys64/mingw64
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_HOST_DATA:C:/msys64/mingw64/share/qt5
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_HOST_BINS:C:/msys64/mingw64/bin
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_HOST_LIBS:C:/msys64/mingw64/lib
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QMAKE_SPEC:win32-g++
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QMAKE_XSPEC:win32-g++
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QMAKE_VERSION:3.1
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] QT_VERSION:5.14.2
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] <<<<<<<<<<  END QMAKE OUTPUT  <<<<<<<<<<
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Parsed qmake variables:
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QMAKE_SPEC = "win32-g++"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QMAKE_VERSION = "3.1"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QMAKE_XSPEC = "win32-g++"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_HOST_BINS = "C:/msys64/mingw64/bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_HOST_DATA = "C:/msys64/mingw64/share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_HOST_LIBS = "C:/msys64/mingw64/lib"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_HOST_PREFIX = "C:/msys64/mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_ARCHDATA = "C:/msys64/mingw64/share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_BINS = "C:/msys64/mingw64/bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_CONFIGURATION = ""
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_DATA = "C:/msys64/mingw64/share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_DEMOS = "C:/msys64/mingw64/share/qt5/examples"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_DOCS = "C:/msys64/mingw64/share/qt5/doc"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_EXAMPLES = "C:/msys64/mingw64/share/qt5/examples"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_HEADERS = "C:/msys64/mingw64/include"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_IMPORTS = "C:/msys64/mingw64/share/qt5/imports"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_LIBEXECS = "C:/msys64/mingw64/share/qt5/bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_LIBS = "C:/msys64/mingw64/lib"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_PLUGINS = "C:/msys64/mingw64/share/qt5/plugins"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_PREFIX = "C:/msys64/mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_QML = "C:/msys64/mingw64/share/qt5/qml"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_TESTS = "C:/msys64/mingw64/share/qt5/tests"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_TRANSLATIONS = "C:/msys64/mingw64/share/qt5/translations"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_SYSROOT = ""
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_VERSION = "5.14.2"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Parsed Qt subdirs:
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_HOST_BINS = "bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_HOST_DATA = "share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_HOST_LIBS = "lib"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_ARCHDATA = "share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_BINS = "bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_DATA = "share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_DEMOS = "share/qt5/examples"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_DOCS = "share/qt5/doc"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_EXAMPLES = "share/qt5/examples"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_HEADERS = "include"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_IMPORTS = "share/qt5/imports"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_LIBEXECS = "share/qt5/bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_LIBS = "lib"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_PLUGINS = "share/qt5/plugins"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_QML = "share/qt5/qml"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_TESTS = "share/qt5/tests"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   QT_INSTALL_TRANSLATIONS = "share/qt5/translations"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Path to Qt directory: "C:/msys64/mingw64".
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Path to new Qt directory: "C:/msys64/mingw64".
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Skipping backup of files.
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] The new and the old pathes to Qt directory are the same.
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Perform forced patching.
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Patch values for text files:
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "@@QT_REAL_PREFIX/dir@@" -> "C:/msys64/mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "@@QT_REAL_PREFIX\\dir@@" -> "C:\\msys64\\mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "@@QT_REAL_PREFIX\dir@@" -> "C:\msys64\mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "C:/msys64/mingw64" -> "C:/msys64/mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "C:\\msys64\\mingw64" -> "C:\\msys64\\mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "C:\msys64\mingw64" -> "C:\msys64\mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET] Patch values for binary files:
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_adatpath=" -> "qt_adatpath=C:/msys64/mingw64/share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_binspath=" -> "qt_binspath=C:/msys64/mingw64/bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_datapath=" -> "qt_datapath=C:/msys64/mingw64/share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_demopath=" -> "qt_demopath=C:/msys64/mingw64/share/qt5/examples"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_docspath=" -> "qt_docspath=C:/msys64/mingw64/share/qt5/doc"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_epfxpath=" -> "qt_epfxpath=C:/msys64/mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_hbinpath=" -> "qt_hbinpath=C:/msys64/mingw64/bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_hdatpath=" -> "qt_hdatpath=C:/msys64/mingw64/share/qt5"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_hdrspath=" -> "qt_hdrspath=C:/msys64/mingw64/include"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_hlibpath=" -> "qt_hlibpath=C:/msys64/mingw64/lib"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_hpfxpath=" -> "qt_hpfxpath=C:/msys64/mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_impspath=" -> "qt_impspath=C:/msys64/mingw64/share/qt5/imports"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_lbexpath=" -> "qt_lbexpath=C:/msys64/mingw64/share/qt5/bin"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_libspath=" -> "qt_libspath=C:/msys64/mingw64/lib"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_plugpath=" -> "qt_plugpath=C:/msys64/mingw64/share/qt5/plugins"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_prfxpath=" -> "qt_prfxpath=C:/msys64/mingw64"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_qml2path=" -> "qt_qml2path=C:/msys64/mingw64/share/qt5/qml"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_trnspath=" -> "qt_trnspath=C:/msys64/mingw64/share/qt5/translations"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_tstspath=" -> "qt_tstspath=C:/msys64/mingw64/share/qt5/tests"
+[2020-04-07T01:13:48+0530] [ALPM-SCRIPTLET]   "qt_xmplpath=" -> "qt_xmplpath=C:/msys64/mingw64/share/qt5/examples"
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] List of text files for patch:
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DAnimation.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DCore.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DExtras.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DInput.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DLogic.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DQuick.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DQuickAnimation.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DQuickExtras.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DQuickInput.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DQuickRender.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DQuickScene2D.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt53DRender.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5AccessibilitySupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5AxBase.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5AxContainer.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5AxServer.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Bluetooth.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Bodymovin.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Bootstrap.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Charts.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Concurrent.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Core.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5DataVisualization.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5DBus.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Designer.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5DesignerComponents.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5DeviceDiscoverySupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5EdidSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5EventDispatcherSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5FbSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5FontDatabaseSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Gamepad.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Gui.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Help.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Location.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Multimedia.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5MultimediaQuick.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5MultimediaWidgets.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Network.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5NetworkAuth.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Nfc.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5OpenGL.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5OpenGLExtensions.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5PacketProtocol.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5PlatformCompositorSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Positioning.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5PositioningQuick.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5PrintSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Purchasing.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Qml.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QmlDebug.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QmlDevTools.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QmlModels.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QmlWorkerScript.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Quick.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Quick3D.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Quick3DAssetImport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Quick3DRender.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Quick3DRuntimeRender.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Quick3DUtils.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QuickControls2.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QuickParticles.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QuickShapes.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QuickTemplates2.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QuickTest.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5QuickWidgets.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5RemoteObjects.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Script.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5ScriptTools.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Scxml.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Sensors.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5SerialBus.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5SerialPort.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Sql.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Svg.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Test.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5TextToSpeech.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5ThemeSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5UiTools.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5VirtualKeyboard.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5VulkanSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5WebChannel.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5WebSockets.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5WebView.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Widgets.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5WindowsUIAutomationSupport.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5WinExtras.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5Xml.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/Qt5XmlPatterns.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/qtmain.prl
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DAnimation.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DCore.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DExtras.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DInput.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DLogic.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DQuick.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickAnimation.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickExtras.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickInput.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickRender.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickScene2D.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt53DRender.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5AxBase.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5AxContainer.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5AxServer.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Bluetooth.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Charts.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Concurrent.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Core.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5DataVisualization.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5DBus.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Designer.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Gamepad.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Gui.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Help.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Location.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Multimedia.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5MultimediaWidgets.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Network.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5NetworkAuth.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Nfc.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5OpenGL.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5OpenGLExtensions.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Positioning.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5PositioningQuick.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5PrintSupport.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Purchasing.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Qml.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5QmlModels.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5QmlWorkerScript.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Quick.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3D.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3DAssetImport.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3DRender.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3DRuntimeRender.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3DUtils.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5QuickControls2.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5QuickTemplates2.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5QuickTest.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5QuickWidgets.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5RemoteObjects.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Script.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5ScriptTools.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Scxml.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Sensors.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5SerialBus.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5SerialPort.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Sql.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Svg.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Test.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5TextToSpeech.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5UiTools.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5VirtualKeyboard.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5WebChannel.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5WebSockets.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5WebView.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Widgets.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5WinExtras.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5Xml.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/pkgconfig/Qt5XmlPatterns.pc
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/features/dbuscommon.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/features/repcclient.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/features/repccommon.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/features/repcmerged.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/features/repcserver.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3danimation.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3danimation_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dcore.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dcore_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dextras.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dextras_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dinput.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dinput_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dlogic.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dlogic_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquick.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickanimation.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickanimation_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickextras.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickextras_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickinput.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickinput_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickrender.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickrender_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickscene2d.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickscene2d_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquick_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3drender.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3drender_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_accessibility_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axbase.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axbase_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axcontainer.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axcontainer_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axserver.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axserver_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_bluetooth.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_bluetooth_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_bodymovin_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_bootstrap_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_charts.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_charts_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_concurrent.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_concurrent_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_core.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_core_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_datavisualization.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_datavisualization_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_dbus.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_dbus_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_designer.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_designercomponents_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_designer_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_devicediscovery_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_edid_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_eventdispatcher_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_fb_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_fontdatabase_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_gamepad.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_gamepad_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_gui.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_gui_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_help.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_help_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_location.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_location_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_multimedia.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_multimediawidgets.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_multimediawidgets_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_multimedia_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_network.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_networkauth.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_networkauth_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_network_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_nfc.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_nfc_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_opengl.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_openglextensions.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_openglextensions_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_opengl_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_packetprotocol_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_platformcompositor_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_positioning.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_positioningquick.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_positioningquick_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_positioning_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_printsupport.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_printsupport_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_purchasing.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_purchasing_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qml.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmldebug_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmldevtools_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmlmodels.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmlmodels_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmltest.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmltest_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmlworkerscript.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmlworkerscript_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qml_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qtmultimediaquicktools_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3d.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3dassetimport.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3dassetimport_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3drender.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3drender_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3druntimerender.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3druntimerender_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3dutils.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3dutils_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3d_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickcontrols2.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickcontrols2_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickparticles_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickshapes_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quicktemplates2.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quicktemplates2_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickwidgets.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickwidgets_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_remoteobjects.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_remoteobjects_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_repparser.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_repparser_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_script.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_scripttools.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_scripttools_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_script_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_scxml.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_scxml_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_sensors.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_sensors_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_serialbus.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_serialbus_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_serialport.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_serialport_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_sql.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_sql_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_svg.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_svg_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_testlib.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_testlib_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_texttospeech.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_texttospeech_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_theme_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_uiplugin.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_uitools.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_uitools_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_virtualkeyboard.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_virtualkeyboard_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_vulkan_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_webchannel.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_webchannel_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_websockets.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_websockets_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_webview.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_webview_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_widgets.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_widgets_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_windowsuiautomation_support_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_winextras.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_winextras_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_xml.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_xmlpatterns.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_xmlpatterns_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_xml_private.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/qconfig.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/qdevice.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/share/qt5/mkspecs/qmodule.pri
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] List of binary files for patch:
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/bin/qmake.exe
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/bin/lrelease.exe
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/bin/qdoc.exe
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET]   C:/msys64/mingw64/bin/Qt5Core.dll
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] 
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DAnimation.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DCore.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DExtras.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DInput.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DLogic.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DQuick.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DQuickAnimation.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DQuickExtras.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DQuickInput.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DQuickRender.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DQuickScene2D.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt53DRender.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5AccessibilitySupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5AxBase.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5AxContainer.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5AxServer.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Bluetooth.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Bodymovin.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Bootstrap.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Charts.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Concurrent.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Core.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5DataVisualization.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5DBus.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Designer.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5DesignerComponents.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5DeviceDiscoverySupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5EdidSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5EventDispatcherSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5FbSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5FontDatabaseSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Gamepad.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Gui.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Help.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Location.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Multimedia.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5MultimediaQuick.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5MultimediaWidgets.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Network.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5NetworkAuth.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Nfc.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5OpenGL.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5OpenGLExtensions.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5PacketProtocol.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5PlatformCompositorSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Positioning.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5PositioningQuick.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5PrintSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Purchasing.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Qml.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QmlDebug.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QmlDevTools.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QmlModels.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QmlWorkerScript.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Quick.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Quick3D.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Quick3DAssetImport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Quick3DRender.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Quick3DRuntimeRender.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Quick3DUtils.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QuickControls2.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QuickParticles.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QuickShapes.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QuickTemplates2.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QuickTest.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5QuickWidgets.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5RemoteObjects.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Script.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5ScriptTools.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Scxml.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Sensors.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5SerialBus.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5SerialPort.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Sql.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Svg.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Test.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5TextToSpeech.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5ThemeSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5UiTools.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5VirtualKeyboard.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5VulkanSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5WebChannel.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5WebSockets.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5WebView.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Widgets.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5WindowsUIAutomationSupport.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5WinExtras.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5Xml.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/Qt5XmlPatterns.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/qtmain.prl".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DAnimation.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DCore.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DExtras.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DInput.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DLogic.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DQuick.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickAnimation.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickExtras.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickInput.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickRender.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DQuickScene2D.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt53DRender.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5AxBase.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5AxContainer.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5AxServer.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Bluetooth.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Charts.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Concurrent.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Core.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5DataVisualization.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5DBus.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Designer.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Gamepad.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Gui.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Help.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Location.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Multimedia.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5MultimediaWidgets.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Network.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5NetworkAuth.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Nfc.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5OpenGL.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5OpenGLExtensions.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Positioning.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5PositioningQuick.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5PrintSupport.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Purchasing.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Qml.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5QmlModels.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5QmlWorkerScript.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Quick.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3D.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3DAssetImport.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3DRender.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3DRuntimeRender.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Quick3DUtils.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5QuickControls2.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5QuickTemplates2.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5QuickTest.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5QuickWidgets.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5RemoteObjects.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Script.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5ScriptTools.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Scxml.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Sensors.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5SerialBus.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5SerialPort.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Sql.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Svg.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Test.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5TextToSpeech.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5UiTools.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5VirtualKeyboard.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5WebChannel.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5WebSockets.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5WebView.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Widgets.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5WinExtras.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5Xml.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/pkgconfig/Qt5XmlPatterns.pc".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/features/dbuscommon.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/features/repcclient.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/features/repccommon.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/features/repcmerged.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/features/repcserver.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3danimation.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3danimation_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dcore.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dcore_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dextras.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dextras_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dinput.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dinput_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dlogic.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dlogic_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquick.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickanimation.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickanimation_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickextras.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickextras_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickinput.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickinput_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickrender.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickrender_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickscene2d.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquickscene2d_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3dquick_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3drender.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_3drender_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_accessibility_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axbase.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axbase_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axcontainer.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axcontainer_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axserver.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_axserver_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_bluetooth.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_bluetooth_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_bodymovin_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_bootstrap_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_charts.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_charts_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_concurrent.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_concurrent_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_core.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_core_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_datavisualization.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_datavisualization_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_dbus.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_dbus_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_designer.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_designercomponents_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_designer_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_devicediscovery_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_edid_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_eventdispatcher_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_fb_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_fontdatabase_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_gamepad.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_gamepad_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_gui.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_gui_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_help.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_help_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_location.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_location_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_multimedia.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_multimediawidgets.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_multimediawidgets_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_multimedia_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_network.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_networkauth.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_networkauth_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_network_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_nfc.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_nfc_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_opengl.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_openglextensions.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_openglextensions_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_opengl_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_packetprotocol_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_platformcompositor_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_positioning.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_positioningquick.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_positioningquick_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_positioning_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_printsupport.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_printsupport_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_purchasing.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_purchasing_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qml.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmldebug_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmldevtools_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmlmodels.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmlmodels_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmltest.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmltest_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmlworkerscript.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qmlworkerscript_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qml_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_qtmultimediaquicktools_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3d.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3dassetimport.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3dassetimport_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3drender.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3drender_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3druntimerender.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3druntimerender_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3dutils.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3dutils_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick3d_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickcontrols2.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickcontrols2_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickparticles_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickshapes_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quicktemplates2.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quicktemplates2_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickwidgets.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quickwidgets_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_quick_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_remoteobjects.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_remoteobjects_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_repparser.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_repparser_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_script.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_scripttools.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_scripttools_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_script_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_scxml.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_scxml_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_sensors.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_sensors_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_serialbus.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_serialbus_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_serialport.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_serialport_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_sql.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_sql_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_svg.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_svg_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_testlib.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_testlib_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_texttospeech.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_texttospeech_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_theme_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_uiplugin.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_uitools.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_uitools_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_virtualkeyboard.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_virtualkeyboard_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_vulkan_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_webchannel.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_webchannel_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_websockets.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_websockets_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_webview.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_webview_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_widgets.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_widgets_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_windowsuiautomation_support_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_winextras.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_winextras_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_xml.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_xmlpatterns.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_xmlpatterns_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/modules/qt_lib_xml_private.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/qconfig.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/qdevice.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/share/qt5/mkspecs/qmodule.pri".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching text file "C:/msys64/mingw64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching binary file "C:/msys64/mingw64/bin/qmake.exe".
+[2020-04-07T01:14:04+0530] [ALPM-SCRIPTLET] Patching binary file "C:/msys64/mingw64/bin/lrelease.exe".
+[2020-04-07T01:14:05+0530] [ALPM-SCRIPTLET] Patching binary file "C:/msys64/mingw64/bin/qdoc.exe".
+[2020-04-07T01:14:06+0530] [ALPM-SCRIPTLET] Patching binary file "C:/msys64/mingw64/bin/Qt5Core.dll".
+[2020-04-07T01:14:06+0530] [ALPM-SCRIPTLET] /
+[2020-04-07T01:14:06+0530] [ALPM] transaction completed
+[2020-04-07T10:00:39+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-qt-installer-framework'
+[2020-04-07T10:02:43+0530] [ALPM] transaction started
+[2020-04-07T10:02:48+0530] [ALPM] installed mingw-w64-x86_64-qt-installer-framework (3.2.0-1)
+[2020-04-07T10:02:48+0530] [ALPM] transaction completed
+[2020-04-07T10:03:03+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-pybind11'
+[2020-04-07T10:03:09+0530] [ALPM] transaction started
+[2020-04-07T10:03:09+0530] [ALPM] installed mingw-w64-x86_64-pybind11 (2.4.3-3)
+[2020-04-07T10:03:09+0530] [ALPM] transaction completed
+[2020-04-07T10:03:47+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-pyqt5'
+[2020-04-07T10:04:26+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-pip'
+[2020-04-07T10:04:30+0530] [ALPM] transaction started
+[2020-04-07T10:04:33+0530] [ALPM] reinstalled mingw-w64-x86_64-python-pip (20.0.2-1)
+[2020-04-07T10:04:33+0530] [ALPM-SCRIPTLET] /
+[2020-04-07T10:04:33+0530] [ALPM] transaction completed
+[2020-04-07T10:04:48+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-path'
+[2020-04-07T10:04:52+0530] [ALPM] transaction started
+[2020-04-07T10:04:52+0530] [ALPM] reinstalled mingw-w64-x86_64-python-path (13.2.0-1)
+[2020-04-07T10:04:52+0530] [ALPM] transaction completed
+[2020-04-07T10:05:10+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-pathtools'
+[2020-04-07T10:05:14+0530] [ALPM] transaction started
+[2020-04-07T10:05:14+0530] [ALPM] installed mingw-w64-x86_64-python-pathtools (0.1.2-1)
+[2020-04-07T10:05:14+0530] [ALPM] transaction completed
+[2020-04-07T10:05:27+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-pandas'
+[2020-04-07T10:05:57+0530] [ALPM] transaction started
+[2020-04-07T10:06:17+0530] [ALPM] installed mingw-w64-x86_64-python-pandas (1.0.3-1)
+[2020-04-07T10:06:17+0530] [ALPM] transaction completed
+[2020-04-07T10:06:36+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-scipy'
+[2020-04-07T10:07:26+0530] [ALPM] transaction started
+[2020-04-07T10:07:57+0530] [ALPM] installed mingw-w64-x86_64-python-scipy (1.4.1-1)
+[2020-04-07T10:07:57+0530] [ALPM] transaction completed
+[2020-04-07T10:08:19+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-nose'
+[2020-04-07T10:08:27+0530] [ALPM] transaction started
+[2020-04-07T10:08:28+0530] [ALPM] installed mingw-w64-x86_64-python-nose (1.3.7-1)
+[2020-04-07T10:08:28+0530] [ALPM-SCRIPTLET] /
+[2020-04-07T10:08:28+0530] [ALPM] transaction completed
+[2020-04-07T10:08:41+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-plotly'
+[2020-04-07T10:08:51+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-pyqt5'
+[2020-04-07T10:10:33+0530] [ALPM] transaction started
+[2020-04-07T10:10:33+0530] [ALPM] installed mingw-w64-x86_64-sip (4.19.22-1)
+[2020-04-07T10:10:33+0530] [ALPM] installed mingw-w64-x86_64-python-sip (4.19.22-1)
+[2020-04-07T10:10:33+0530] [ALPM] installed mingw-w64-x86_64-woff2 (1.0.2-2)
+[2020-04-07T10:10:38+0530] [ALPM] installed mingw-w64-x86_64-qtwebkit (5.212.0alpha4-1)
+[2020-04-07T10:10:50+0530] [ALPM] installed mingw-w64-x86_64-python-pyqt5 (5.14.1-1)
+[2020-04-07T10:10:50+0530] [ALPM] transaction completed
+[2020-04-07T10:11:27+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyter-notebook'
+[2020-04-07T10:11:42+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyter'
+[2020-04-07T10:11:55+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyter-core'
+[2020-04-07T10:12:01+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyter_core'
+[2020-04-07T10:12:05+0530] [ALPM] transaction started
+[2020-04-07T10:12:06+0530] [ALPM] installed mingw-w64-x86_64-python-jupyter_core (4.6.3-1)
+[2020-04-07T10:12:06+0530] [ALPM-SCRIPTLET] /
+[2020-04-07T10:12:06+0530] [ALPM] transaction completed
+[2020-04-07T10:12:20+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyter_console'
+[2020-04-07T10:12:40+0530] [ALPM] transaction started
+[2020-04-07T10:12:40+0530] [ALPM] installed mingw-w64-x86_64-python-entrypoints (0.3-1)
+[2020-04-07T10:12:40+0530] [ALPM] installed mingw-w64-x86_64-libsodium (1.0.18-1)
+[2020-04-07T10:12:40+0530] [ALPM] installed mingw-w64-x86_64-zeromq (4.3.2-1)
+[2020-04-07T10:12:41+0530] [ALPM] installed mingw-w64-x86_64-python-pyzmq (19.0.0-1)
+[2020-04-07T10:12:42+0530] [ALPM] installed mingw-w64-x86_64-python-tornado (6.0.4-1)
+[2020-04-07T10:12:42+0530] [ALPM] installed mingw-w64-x86_64-python-jupyter_client (6.0.0-1)
+[2020-04-07T10:12:42+0530] [ALPM-SCRIPTLET] /
+[2020-04-07T10:12:42+0530] [ALPM] installed mingw-w64-x86_64-python-jupyter_console (6.1.0-1)
+[2020-04-07T10:12:42+0530] [ALPM-SCRIPTLET] /
+[2020-04-07T10:12:43+0530] [ALPM] transaction completed
+[2020-04-07T10:12:54+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyter-notebook'
+[2020-04-07T14:27:56+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gsl'
+[2020-04-07T14:29:22+0530] [ALPM] transaction started
+[2020-04-07T14:29:23+0530] [ALPM] installed mingw-w64-x86_64-gsl (2.6-1)
+[2020-04-07T14:29:23+0530] [ALPM] transaction completed
+[2020-04-07T14:34:44+0530] [PACMAN] Running 'pacman -Syu'
+[2020-04-07T14:34:44+0530] [PACMAN] synchronizing package lists
+[2020-04-07T14:36:30+0530] [PACMAN] starting core system upgrade
+[2020-04-07T14:36:31+0530] [PACMAN] starting full system upgrade
+[2020-04-07T15:01:57+0530] [ALPM] transaction started
+[2020-04-07T15:02:04+0530] [ALPM] upgraded mingw-w64-x86_64-qtwebkit (5.212.0alpha4-1 -> 5.212.0alpha4-2)
+[2020-04-07T15:02:17+0530] [ALPM] upgraded mingw-w64-x86_64-python-pyqt5 (5.14.1-1 -> 5.14.2-1)
+[2020-04-07T15:02:24+0530] [ALPM] upgraded mingw-w64-x86_64-qt-installer-framework (3.2.0-1 -> 3.2.2-1)
+[2020-04-07T15:02:24+0530] [ALPM] transaction completed
+[2020-04-07T15:59:42+0530] [PACMAN] Running 'pacman -Su'
+[2020-04-07T15:59:42+0530] [PACMAN] starting core system upgrade
+[2020-04-07T15:59:43+0530] [PACMAN] starting full system upgrade
+[2020-04-07T16:00:03+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-top'
+[2020-04-07T16:00:10+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-htop'
+[2020-04-08T16:14:55+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-pandas'
+[2020-04-08T16:15:34+0530] [ALPM] transaction started
+[2020-04-08T16:15:55+0530] [ALPM] reinstalled mingw-w64-x86_64-python-pandas (1.0.3-1)
+[2020-04-08T16:15:55+0530] [ALPM] transaction completed
+[2020-04-08T16:17:31+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gdal'
+[2020-04-08T16:17:36+0530] [ALPM] transaction started
+[2020-04-08T16:17:39+0530] [ALPM] reinstalled mingw-w64-x86_64-gdal (3.0.4-2)
+[2020-04-08T16:17:39+0530] [ALPM] transaction completed
+[2020-04-08T16:19:03+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-six'
+[2020-04-08T16:19:07+0530] [ALPM] transaction started
+[2020-04-08T16:19:07+0530] [ALPM] reinstalled mingw-w64-x86_64-python-six (1.14.0-1)
+[2020-04-08T16:19:07+0530] [ALPM] transaction completed
+[2020-04-08T16:20:55+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-jupyter-notebook'
+[2020-04-08T16:21:26+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-jupyter_notebook'
+[2020-04-08T16:21:30+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-jupyter_notebook3'
+[2020-04-08T16:21:38+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-jupyter-notebook'
+[2020-04-08T16:22:27+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-matplotlib'
+[2020-04-08T16:22:46+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyter-notebook'
+[2020-04-08T16:23:02+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-matplotlib'
+[2020-04-08T16:23:18+0530] [ALPM] transaction started
+[2020-04-08T16:23:23+0530] [ALPM] reinstalled mingw-w64-x86_64-python-matplotlib (3.2.1-1)
+[2020-04-08T16:23:23+0530] [ALPM] transaction completed
+[2020-04-08T16:23:34+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyterlab'
+[2020-04-08T16:23:43+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-jupyter'
+[2020-04-08T16:23:54+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-notrbook'
+[2020-04-08T16:24:01+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-notebook'
+[2020-04-08T17:25:46+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-make'
+[2020-04-08T17:25:50+0530] [ALPM] transaction started
+[2020-04-08T17:25:50+0530] [ALPM] reinstalled mingw-w64-x86_64-make (4.3-1)
+[2020-04-08T17:25:50+0530] [ALPM] transaction completed
+[2020-04-08T17:25:59+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-cmake'
+[2020-04-08T17:26:12+0530] [ALPM] transaction started
+[2020-04-08T17:26:47+0530] [ALPM] reinstalled mingw-w64-x86_64-cmake (3.17.0-1)
+[2020-04-08T17:26:47+0530] [ALPM] transaction completed
+[2020-04-08T17:35:37+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-make'
+[2020-04-08T17:35:39+0530] [ALPM] transaction started
+[2020-04-08T17:35:39+0530] [ALPM] reinstalled mingw-w64-x86_64-make (4.3-1)
+[2020-04-08T17:35:39+0530] [ALPM] transaction completed
+[2020-04-08T17:38:31+0530] [PACMAN] Running 'pacman -Su'
+[2020-04-08T17:38:31+0530] [PACMAN] starting core system upgrade
+[2020-04-08T17:38:31+0530] [PACMAN] starting full system upgrade
+[2020-04-08T17:38:45+0530] [PACMAN] Running 'pacman -Syu'
+[2020-04-08T17:38:45+0530] [PACMAN] synchronizing package lists
+[2020-04-08T17:38:49+0530] [PACMAN] starting core system upgrade
+[2020-04-08T17:38:49+0530] [PACMAN] starting full system upgrade
+[2020-04-08T17:38:53+0530] [PACMAN] Running 'pacman -Su'
+[2020-04-08T17:38:53+0530] [PACMAN] starting core system upgrade
+[2020-04-08T17:38:53+0530] [PACMAN] starting full system upgrade
+[2020-04-09T10:17:47+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gsl'
+[2020-04-09T10:17:58+0530] [ALPM] transaction started
+[2020-04-09T10:18:01+0530] [ALPM] reinstalled mingw-w64-x86_64-gsl (2.6-1)
+[2020-04-09T10:18:01+0530] [ALPM] transaction completed
+[2020-04-13T18:38:42+0530] [PACMAN] Running 'pacman -Su'
+[2020-04-13T18:38:42+0530] [PACMAN] starting core system upgrade
+[2020-04-13T18:38:43+0530] [PACMAN] starting full system upgrade
+[2020-04-13T18:38:49+0530] [PACMAN] Running 'pacman -Syu'
+[2020-04-13T18:38:49+0530] [PACMAN] synchronizing package lists
+[2020-04-13T18:39:11+0530] [PACMAN] starting core system upgrade
+[2020-04-13T18:39:11+0530] [PACMAN] starting full system upgrade
+[2020-04-13T18:59:51+0530] [ALPM] transaction started
+[2020-04-13T18:59:51+0530] [ALPM] upgraded mingw-w64-x86_64-gcc-libs (9.3.0-1 -> 9.3.0-2)
+[2020-04-13T18:59:54+0530] [ALPM] upgraded mingw-w64-x86_64-libffi (3.2.1-4 -> 3.3-1)
+[2020-04-13T18:59:54+0530] [ALPM] upgraded mingw-w64-x86_64-p11-kit (0.23.20-1 -> 0.23.20-2)
+[2020-04-13T19:00:34+0530] [ALPM] upgraded mingw-w64-x86_64-cmake (3.17.0-1 -> 3.17.1-1)
+[2020-04-13T19:00:47+0530] [ALPM] upgraded mingw-w64-x86_64-headers-git (8.0.0.5685.ef310786-1 -> 8.0.0.5704.5d6235fd-1)
+[2020-04-13T19:00:55+0530] [ALPM] upgraded mingw-w64-x86_64-crt-git (8.0.0.5685.ef310786-1 -> 8.0.0.5704.5d6235fd-1)
+[2020-04-13T19:01:16+0530] [ALPM] upgraded mingw-w64-x86_64-gcc (9.3.0-1 -> 9.3.0-2)
+[2020-04-13T19:04:02+0530] [ALPM] upgraded mingw-w64-x86_64-gcc-ada (9.3.0-1 -> 9.3.0-2)
+[2020-04-13T19:04:02+0530] [ALPM] upgraded mingw-w64-x86_64-gcc-libgfortran (9.3.0-1 -> 9.3.0-2)
+[2020-04-13T19:04:03+0530] [ALPM] upgraded mingw-w64-x86_64-gcc-fortran (9.3.0-1 -> 9.3.0-2)
+[2020-04-13T19:04:05+0530] [ALPM] upgraded mingw-w64-x86_64-gcc-objc (9.3.0-1 -> 9.3.0-2)
+[2020-04-13T19:04:55+0530] [ALPM] upgraded mingw-w64-x86_64-python (3.8.2-1 -> 3.8.2-2)
+[2020-04-13T19:05:03+0530] [ALPM] upgraded mingw-w64-x86_64-glib2 (2.64.1-1 -> 2.64.2-1)
+[2020-04-13T19:05:06+0530] [ALPM-SCRIPTLET] No schema files found: doing nothing.
+[2020-04-13T19:05:06+0530] [ALPM-SCRIPTLET] /
+[2020-04-13T19:05:09+0530] [ALPM] upgraded mingw-w64-x86_64-poppler (0.86.1-1 -> 0.87.0-1)
+[2020-04-13T19:05:12+0530] [ALPM] upgraded mingw-w64-x86_64-gdal (3.0.4-2 -> 3.0.4-3)
+[2020-04-13T19:05:12+0530] [ALPM] transaction completed
+[2020-04-16T20:16:12+0530] [PACMAN] Running 'pacman -Su'
+[2020-04-16T20:16:12+0530] [PACMAN] starting core system upgrade
+[2020-04-16T20:16:13+0530] [PACMAN] starting full system upgrade
+[2020-04-16T20:16:22+0530] [PACMAN] Running 'pacman -Syu'
+[2020-04-16T20:16:22+0530] [PACMAN] synchronizing package lists
+[2020-04-16T20:17:40+0530] [PACMAN] starting core system upgrade
+[2020-04-16T20:17:40+0530] [PACMAN] starting full system upgrade
+[2020-04-16T20:20:37+0530] [ALPM] transaction started
+[2020-04-16T20:20:38+0530] [ALPM] upgraded mingw-w64-x86_64-jsoncpp (1.9.1-2 -> 1.9.2-1)
+[2020-04-16T20:21:19+0530] [ALPM] upgraded mingw-w64-x86_64-cmake (3.17.1-1 -> 3.17.1-2)
+[2020-04-16T20:21:19+0530] [ALPM] transaction completed
+[2020-04-16T20:21:47+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-sqlite'
+[2020-04-16T20:22:01+0530] [ALPM] transaction started
+[2020-04-16T20:22:07+0530] [ALPM] reinstalled mingw-w64-x86_64-sqlite3 (3.31.1-1)
+[2020-04-16T20:22:07+0530] [ALPM] transaction completed
+[2020-04-18T11:51:25+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-jupyter'
+[2020-04-18T11:51:33+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-notebook'
+[2020-04-18T11:52:16+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-puthon-notebook'
+[2020-04-18T11:52:21+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python-notebook'
+[2020-04-18T12:12:05+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-puthon-notebook'
+[2020-04-18T12:12:14+0530] [PACMAN] Running 'pacman -S mingw-w64-x86_64-puthon-jupyterlab'
+[2020-04-19T12:40:58+0530] [PACMAN] Running 'pacman -Syu'
+[2020-04-19T12:40:58+0530] [PACMAN] synchronizing package lists
+[2020-04-19T12:41:11+0530] [PACMAN] starting core system upgrade
+[2020-04-19T12:41:20+0530] [ALPM] transaction started
+[2020-04-19T12:41:20+0530] [ALPM] upgraded pacman-mirrors (20200307-1 -> 20200329-1)
+[2020-04-19T12:41:20+0530] [ALPM] transaction completed
+[2020-04-19T14:27:27+0530] [PACMAN] Running 'pacman -Syu'
+[2020-04-19T14:27:27+0530] [PACMAN] synchronizing package lists
+[2020-04-19T14:27:31+0530] [PACMAN] starting core system upgrade
+[2020-04-19T14:27:31+0530] [PACMAN] starting full system upgrade
+[2020-04-19T14:31:32+0530] [ALPM] transaction started
+[2020-04-19T14:31:32+0530] [ALPM] upgraded brotli (1.0.7-2 -> 1.0.7-3)
+[2020-04-19T14:31:32+0530] [ALPM] upgraded libbz2 (1.0.8-1 -> 1.0.8-2)
+[2020-04-19T14:31:33+0530] [ALPM] upgraded bzip2 (1.0.8-1 -> 1.0.8-2)
+[2020-04-19T14:31:33+0530] [ALPM] installed libyaml (0.2.2-1)
+[2020-04-19T14:31:38+0530] [ALPM] upgraded dtc (1.6.0-1 -> 1.6.0-2)
+[2020-04-19T14:31:39+0530] [ALPM] upgraded file (5.38-2 -> 5.38-3)
+[2020-04-19T14:31:39+0530] [ALPM] upgraded gawk (5.0.1-1 -> 5.1.0-1)
+[2020-04-19T14:31:42+0530] [ALPM] upgraded libxml2 (2.9.10-2 -> 2.9.10-4)
+[2020-04-19T14:31:42+0530] [ALPM] upgraded libxslt (1.1.34-1 -> 1.1.34-3)
+[2020-04-19T14:31:43+0530] [ALPM] upgraded libffi (3.2.1-3 -> 3.3-1)
+[2020-04-19T14:31:45+0530] [ALPM] upgraded glib2 (2.54.3-2 -> 2.54.3-3)
+[2020-04-19T14:31:45+0530] [ALPM] upgraded libp11-kit (0.23.20-1 -> 0.23.20-2)
+[2020-04-19T14:31:45+0530] [ALPM] upgraded libgnutls (3.6.12-1 -> 3.6.13-1)
+[2020-04-19T14:31:47+0530] [ALPM] upgraded libopenssl (1.1.1.e-1 -> 1.1.1.f-1)
+[2020-04-19T14:32:43+0530] [ALPM] upgraded openssl (1.1.1.e-1 -> 1.1.1.f-1)
+[2020-04-19T14:32:43+0530] [ALPM] upgraded p11-kit (0.23.20-1 -> 0.23.20-2)
+[2020-04-19T14:32:43+0530] [ALPM] upgraded libgpgme (1.13.1-2 -> 1.13.1-3)
+[2020-04-19T14:32:44+0530] [ALPM] transaction completed
+[2020-04-23T10:53:16+0530] [PACMAN] Running 'pacman -Syu'
+[2020-04-23T10:53:17+0530] [PACMAN] synchronizing package lists
+[2020-04-23T10:54:52+0530] [PACMAN] starting core system upgrade
+[2020-04-23T10:55:11+0530] [PACMAN] starting full system upgrade
+[2020-04-23T10:58:56+0530] [ALPM] transaction started
+[2020-04-23T10:58:56+0530] [ALPM] upgraded info (6.6-1 -> 6.7-1)
+[2020-04-23T10:58:58+0530] [ALPM] upgraded libopenssl (1.1.1.f-1 -> 1.1.1.g-1)
+[2020-04-23T10:58:59+0530] [ALPM] upgraded libyaml (0.2.2-1 -> 0.2.4-1)
+[2020-04-23T10:59:00+0530] [ALPM] upgraded mingw-w64-x86_64-harfbuzz (2.6.4-3 -> 2.6.5-1)
+[2020-04-23T10:59:00+0530] [ALPM] upgraded mingw-w64-x86_64-libuv (1.35.0-1 -> 1.37.0-1)
+[2020-04-23T10:59:01+0530] [ALPM] upgraded mingw-w64-x86_64-nss (3.51-1 -> 3.51.1-1)
+[2020-04-23T10:59:01+0530] [ALPM] upgraded mingw-w64-x86_64-pixman (0.38.4-1 -> 0.40.0-1)
+[2020-04-23T10:59:12+0530] [ALPM] upgraded mingw-w64-x86_64-python-numpy (1.18.2-1 -> 1.18.3-1)
+[2020-04-23T11:00:07+0530] [ALPM] upgraded openssl (1.1.1.f-1 -> 1.1.1.g-1)
+[2020-04-23T11:00:07+0530] [ALPM] transaction completed

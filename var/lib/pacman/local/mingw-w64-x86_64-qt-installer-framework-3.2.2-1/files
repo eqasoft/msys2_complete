@@ -1,0 +1,14 @@
+%FILES%
+mingw64/
+mingw64/bin/
+mingw64/bin/archivegen.exe
+mingw64/bin/binarycreator.exe
+mingw64/bin/devtool.exe
+mingw64/bin/installerbase.exe
+mingw64/bin/repogen.exe
+mingw64/share/
+mingw64/share/licenses/
+mingw64/share/licenses/installer-framework/
+mingw64/share/licenses/installer-framework/LICENSE.FDL
+mingw64/share/licenses/installer-framework/LICENSE.GPL3-EXCEPT
+

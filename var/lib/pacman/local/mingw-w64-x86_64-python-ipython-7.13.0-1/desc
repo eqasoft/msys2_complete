@@ -1,0 +1,65 @@
+%NAME%
+mingw-w64-x86_64-python-ipython
+
+%VERSION%
+7.13.0-1
+
+%BASE%
+mingw-w64-python-ipython
+
+%DESC%
+An enhanced Interactive Python shell (mingw-w64)
+
+%URL%
+https://ipython.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1583220515
+
+%INSTALLDATE%
+1586200732
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+2347549
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+mingw-w64-x86_64-python3-ipython
+
+%DEPENDS%
+winpty
+mingw-w64-x86_64-sqlite3
+mingw-w64-x86_64-python-jedi
+mingw-w64-x86_64-python-decorator
+mingw-w64-x86_64-python-pickleshare
+mingw-w64-x86_64-python-simplegeneric
+mingw-w64-x86_64-python-traitlets
+mingw-w64-x86_64-python-prompt_toolkit>=2.0
+mingw-w64-x86_64-python-pygments
+mingw-w64-x86_64-python-backcall
+mingw-w64-x86_64-python-pexpect
+mingw-w64-x86_64-python-colorama
+mingw-w64-x86_64-python-win_unicode_console
+
+%OPTDEPENDS%
+mingw-w64-x86_64-python-nose: for IPython's test suite
+mingw-w64-x86_64-python-qtconsole: for ipython qtconsole
+mingw-w64-x86_64-python-ipython-ipyparallel: for IPython.parallel
+
+%CONFLICTS%
+mingw-w64-x86_64-python3-ipython
+
+%PROVIDES%
+mingw-w64-x86_64-python3-ipython
+

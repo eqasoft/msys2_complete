@@ -1,0 +1,56 @@
+%NAME%
+mingw-w64-x86_64-python-pandas
+
+%VERSION%
+1.0.3-1
+
+%BASE%
+mingw-w64-python-pandas
+
+%DESC%
+Cross-section and time series data analysis toolkit (mingw-w64)
+
+%URL%
+https://pandas.pydata.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1585033633
+
+%INSTALLDATE%
+1586342755
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+56011009
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+mingw-w64-x86_64-python3-pandas
+
+%DEPENDS%
+mingw-w64-x86_64-python-numpy
+mingw-w64-x86_64-python-pytz
+mingw-w64-x86_64-python-dateutil
+
+%OPTDEPENDS%
+mingw-w64-x86_64-python-scipy: needed for miscellaneous statistical functions
+mingw-w64-x86_64-python-matplotlib: needed for plotting
+mingw-w64-x86_64-python-numexpr: needed for accelerating certain numerical operations (recommended)
+mingw-w64-x86_64-python-openpyxl: needed for reading/writing Excel file
+
+%CONFLICTS%
+mingw-w64-x86_64-python3-pandas
+
+%PROVIDES%
+mingw-w64-x86_64-python3-pandas
+

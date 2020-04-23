@@ -1,0 +1,12 @@
+%FILES%
+mingw64/
+mingw64/bin/
+mingw64/bin/sip.exe
+mingw64/include/
+mingw64/include/python3.8/
+mingw64/include/python3.8/sip.h
+mingw64/share/
+mingw64/share/licenses/
+mingw64/share/licenses/sip/
+mingw64/share/licenses/sip/LICENSE
+

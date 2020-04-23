@@ -1,0 +1,15 @@
+%FILES%
+mingw64/
+mingw64/lib/
+mingw64/lib/python3.8/
+mingw64/lib/python3.8/site-packages/
+mingw64/lib/python3.8/site-packages/PyQt5/
+mingw64/lib/python3.8/site-packages/PyQt5/sip.pyd
+mingw64/lib/python3.8/site-packages/PyQt5/sip.pyi
+mingw64/lib/python3.8/site-packages/sipconfig.py
+mingw64/lib/python3.8/site-packages/sipdistutils.py
+mingw64/share/
+mingw64/share/licenses/
+mingw64/share/licenses/python3-sip/
+mingw64/share/licenses/python3-sip/LICENSE
+

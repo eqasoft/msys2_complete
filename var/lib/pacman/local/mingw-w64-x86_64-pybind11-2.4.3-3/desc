@@ -1,0 +1,39 @@
+%NAME%
+mingw-w64-x86_64-pybind11
+
+%VERSION%
+2.4.3-3
+
+%BASE%
+mingw-w64-pybind11
+
+%DESC%
+A lightweight header-only library that exposes C++ types in Python and vice versa (mingw-w64)
+
+%URL%
+https://pybind11.readthedocs.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1576042377
+
+%INSTALLDATE%
+1586233989
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+677183
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%OPTDEPENDS%
+mingw-w64-x86_64-python3: to target bindings supporting python 3
+

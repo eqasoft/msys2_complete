@@ -1,0 +1,15 @@
+%FILES%
+mingw64/
+mingw64/lib/
+mingw64/lib/python3.8/
+mingw64/lib/python3.8/site-packages/
+mingw64/lib/python3.8/site-packages/__pycache__/
+mingw64/lib/python3.8/site-packages/__pycache__/simplegeneric.cpython-38.opt-1.pyc
+mingw64/lib/python3.8/site-packages/__pycache__/simplegeneric.cpython-38.pyc
+mingw64/lib/python3.8/site-packages/simplegeneric-0.8.1-py3.8.egg-info/
+mingw64/lib/python3.8/site-packages/simplegeneric-0.8.1-py3.8.egg-info/dependency_links.txt
+mingw64/lib/python3.8/site-packages/simplegeneric-0.8.1-py3.8.egg-info/PKG-INFO
+mingw64/lib/python3.8/site-packages/simplegeneric-0.8.1-py3.8.egg-info/SOURCES.txt
+mingw64/lib/python3.8/site-packages/simplegeneric-0.8.1-py3.8.egg-info/top_level.txt
+mingw64/lib/python3.8/site-packages/simplegeneric.py
+

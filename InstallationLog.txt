@@ -1,0 +1,141 @@
+************************************* Invoked: Sun Apr 5 16:21:52 2020
+[0] Arguments: C:\Users\avisekiitr\Downloads\msys2-x86_64-20190524.exe
+[533] Operations sanity check succeeded.
+[26147] backup  operation: Mkdir
+[26147] 	- arguments: C:/msys64
+[26148] Done
+[26158] perform  operation: Mkdir
+[26158] 	- arguments: C:/msys64
+[26213] Done
+[26213] Install size: 2 components
+[26247] backup com.msys2.root.base operation: Extract
+[26247] 	- arguments: installer://com.msys2.root.base/20190524msys64.7z, C:\msys64
+[26247] Done
+[26247] perform com.msys2.root.base operation: Extract
+[26247] 	- arguments: installer://com.msys2.root.base/20190524msys64.7z, C:\msys64
+[136342] Done
+[136343] backup com.msys2.root.base operation: CreateShortcut
+[136343] 	- arguments: C:\msys64\msys2_shell.cmd, C:\Users\avisekiitr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW 32-bit.lnk, -mingw32
+[136343] Done
+[136344] perform com.msys2.root.base operation: CreateShortcut
+[136344] 	- arguments: C:\msys64\msys2_shell.cmd, C:\Users\avisekiitr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW 32-bit.lnk, -mingw32
+[136423] Done
+[136423] backup com.msys2.root.base operation: CreateShortcut
+[136423] 	- arguments: C:\msys64\msys2_shell.cmd, C:\Users\avisekiitr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW 64-bit.lnk, -mingw64
+[136423] Done
+[136423] perform com.msys2.root.base operation: CreateShortcut
+[136423] 	- arguments: C:\msys64\msys2_shell.cmd, C:\Users\avisekiitr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW 64-bit.lnk, -mingw64
+[136467] Done
+[136467] backup com.msys2.root.base operation: CreateShortcut
+[136467] 	- arguments: C:\msys64\msys2_shell.cmd, C:\Users\avisekiitr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MSYS.lnk, -msys
+[136467] Done
+[136468] perform com.msys2.root.base operation: CreateShortcut
+[136468] 	- arguments: C:\msys64\msys2_shell.cmd, C:\Users\avisekiitr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MSYS.lnk, -msys
+[136742] Done
+[136743] backup com.msys2.root.base operation: Execute
+[136743] 	- arguments: C:\msys64\usr\bin\bash.exe, --login, -c, exit
+[136743] Done
+[136743] perform com.msys2.root.base operation: Execute
+[136743] 	- arguments: C:\msys64\usr\bin\bash.exe, --login, -c, exit
+[137594] C:\\msys64\\usr\\bin\\bash.exe" started, arguments: "--login -c exit
+[144372] Copying skeleton files.\nThese files are for the users to personalise their msys2 experience.\n\nThey will never be overwritten nor automatically updated.\n\n
+[146510] './.bashrc' -> '/home/avisekiitr/.bashrc'\n
+[146583] './.bash_logout' -> '/home/avisekiitr/.bash_logout'\n
+[146895] './.bash_profile' -> '/home/avisekiitr/.bash_profile'\n
+[146973] './.inputrc' -> '/home/avisekiitr/.inputrc'\n
+[147045] './.profile' -> '/home/avisekiitr/.profile'\n
+[150176] 'C:\\Windows\\system32\\drivers\\etc\\hosts' -> '/etc/hosts'\n
+[150489] 'C:\\Windows\\system32\\drivers\\etc\\protocol' -> '/etc/protocols'\n
+[150560] 'C:\\Windows\\system32\\drivers\\etc\\services' -> '/etc/services'\n
+[150711] 'C:\\Windows\\system32\\drivers\\etc\\networks' -> '/etc/networks'\n
+[168229] ==> Updating trust database...\n
+[169172] ==> Appending keys from msys2.gpg...\n
+[171311] ==> Locally signing trusted keys in keyring...\n
+[171382]   -> Locally signing key D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...\n
+[175513]   -> Locally signing key 123D4D51A1793859C2BE916BBBE514E53E0D0813...\n
+[178144]   -> Locally signing key B91BCF3303284BF90CC043CA9F418C233E652008...\n
+[181291]   -> Locally signing key 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...\n
+[183437] ==> Importing owner trust values...\n==> Updating trust database...\n
+[195335] --> Installing /usr/share/info/assuan.info.gz ...
+[197465]  done\n--> Installing /usr/share/info/autosprintf.info.gz ... done\n--> Installing /usr/share/info/bash.info.gz ... done\n--> Installing /usr/share/info/coreutils.info.gz ...
+[197775]  done\n--> Installing /usr/share/info/find.info.gz ...
+[197846]  done\n--> Installing /usr/share/info/find-maint.info.gz ...
+[197997]  done\n--> Installing /usr/share/info/flex.info.gz ...
+[198068]  done\n--> Installing /usr/share/info/gawk.info.gz ...
+[198709]  done\n--> Installing /usr/share/info/gawkinet.info.gz ...
+[198859]  done\n--> Installing /usr/share/info/gawkworkflow.info.gz ...
+[199010]  done\n--> Installing /usr/share/info/gcrypt.info.gz ...
+[199081]  done\n--> Installing /usr/share/info/gettext.info.gz ...
+[199233]  done\n--> Installing /usr/share/info/gmp.info.gz ...
+[199387]  done\n--> Installing /usr/share/info/gnupg.info.gz ...
+[199458]  done\n--> Installing /usr/share/info/gnutls.info.gz ...
+[199608]  done\n--> Installing /usr/share/info/gnutls-guile.info.gz ...
+[199759]  done\n--> Installing /usr/share/info/gpgme.info.gz ...
+[199910]  done\n--> Installing /usr/share/info/grep.info.gz ...
+[199981]  done\n--> Installing /usr/share/info/gzip.info.gz ...
+[200132]  done\n--> Installing /usr/share/info/history.info.gz ...
+[200203]  done\n--> Installing /usr/share/info/inetutils.info.gz ...
+[200355]  done\n--> Installing /usr/share/info/info-stnd.info.gz ...
+[200506]  done\n--> Installing /usr/share/info/ksba.info.gz ...
+[200578]  done\n--> Installing /usr/share/info/libffi.info.gz ...
+[200731]  done\n--> Installing /usr/share/info/libgomp.info.gz ...
+[200883]  done\n--> Installing /usr/share/info/libidn2.info.gz ...
+[200954]  done\n--> Installing /usr/share/info/libquadmath.info.gz ...
+[201105]  done\n--> Installing /usr/share/info/libtasn1.info.gz ...
+[201176]  done\n--> Installing /usr/share/info/libunistring.info.gz ...
+[201328]  done\n--> Installing /usr/share/info/m4.info.gz ...
+[201480]  done\n--> Installing /usr/share/info/mpfr.info.gz ...
+[201737]  done\n--> Installing /usr/share/info/nettle.info.gz ...
+[201812]  done\n--> Installing /usr/share/info/pinentry.info.gz ...
+[201964]  done\n--> Installing /usr/share/info/readline.info.gz ...
+[202114]  done\n--> Installing /usr/share/info/rluserman.info.gz ...
+[202187]  done\n--> Installing /usr/share/info/sed.info.gz ...
+[202339]  done\n--> Installing /usr/share/info/time.info.gz ...
+[202410]  done\n--> Installing /usr/share/info/wget.info.gz ...
+[202561]  done\n--> Installing /usr/share/info/which.info.gz ...
+[202712]  done\n
+[208344] \x1B[H\x1B[J\n\n###################################################################\n#                                                                 #\n#                                                                 #\n#                   C   A   U   T   I   O   N                     #\n#                                                                 #\n#                  This is first start of MSYS2.                  #\n#       You MUST restart shell to apply necessary actions.        #\n#                                                                 #\n#                                                                 #\n###################################################################\n\n\n
+[208392] \x1B[H\x1B[J
+[208392] Done
+[214532] Warning: DirectWrite: CreateFontFaceFromHDC() failed (Indicates an error in an input file such as a font file.) for QFontDef(Family="Fixedsys", pointsize=8.25, pixelsize=15, styleHint=5, weight=50, stretch=100, hintingPreference=0) LOGFONT("Fixedsys", lfWidth=0, lfHeight=-15) dpi=96
+[218743] Warning: DirectWrite: CreateFontFaceFromHDC() failed (Indicates an error in an input file such as a font file.) for QFontDef(Family="Modern", pointsize=8.25, pixelsize=11, styleHint=5, weight=50, stretch=100, hintingPreference=0) LOGFONT("Modern", lfWidth=0, lfHeight=-11) dpi=96
+[219912] Warning: DirectWrite: CreateFontFaceFromHDC() failed (Indicates an error in an input file such as a font file.) for QFontDef(Family="MS Sans Serif", pointsize=8.25, pixelsize=13, styleHint=5, weight=50, stretch=100, hintingPreference=0) LOGFONT("MS Sans Serif", lfWidth=0, lfHeight=-13) dpi=96
+[219996] Warning: DirectWrite: CreateFontFaceFromHDC() failed (Indicates an error in an input file such as a font file.) for QFontDef(Family="MS Serif", pointsize=8.25, pixelsize=11, styleHint=5, weight=50, stretch=100, hintingPreference=0) LOGFONT("MS Serif", lfWidth=0, lfHeight=-11) dpi=96
+[220470] Writing maintenance tool: "C:\\msys64/maintenancetool.exe.new"
+[220642] Wrote permissions for maintenance tool.
+[225322] Maintenance tool restart: false.
+[241017] starting "C:\\msys64/msys2_shell.cmd" ()
+************************************* Invoked: Sun Apr 5 16:27:30 2020
+[0] Arguments: C:\msys64\maintenancetool.exe
+[262] Operations sanity check succeeded.
+************************************* Invoked: Sun Apr 5 18:08:58 2020
+[0] Arguments: C:\msys64\maintenancetool.exe
+[246] Operations sanity check succeeded.
+************************************* Invoked: Sun Apr 5 18:16:37 2020
+[0] Arguments: C:\msys64\maintenancetool.exe
+[245] Operations sanity check succeeded.
+[166552] Network error while downloading 'http://repo.msys2.org/mingw/x86_64/Updates.xml?352854814': Error transferring http://repo.msys2.org/mingw/x86_64/Updates.xml?352854814 - server replied: Not Found.
+[166566] Cannot fetch a valid version of Updates.xml from repository "": "tag mismatch"
+[166575] Cannot retrieve remote tree No package sources set for this application..
+[257280] Created question message box "cancelInstallation": "MSYS2 64bit Question", "Do you want to quit the maintenance application?"
+************************************* Invoked: Sun Apr 5 18:21:02 2020
+[0] Arguments: C:\msys64\maintenancetool.exe
+[232] Operations sanity check succeeded.
+[49154] Network error while downloading 'http://repo.msys2.org/mingw/x86_64/Updates.xml?301886901': Error transferring http://repo.msys2.org/mingw/x86_64/Updates.xml?301886901 - server replied: Not Found.
+[49223] Network error while downloading 'http://repo.msys2.org/msys/x86_64/Updates.xml?85393980': Error transferring http://repo.msys2.org/msys/x86_64/Updates.xml?85393980 - server replied: Not Found.
+[49228] Cannot fetch a valid version of Updates.xml from repository "": "tag mismatch"
+[49232] Cannot fetch a valid version of Updates.xml from repository "": "tag mismatch"
+[49232] Cannot retrieve remote tree No package sources set for this application..
+[67793] Created question message box "cancelInstallation": "MSYS2 64bit Question", "Do you want to quit the maintenance application?"
+************************************* Invoked: Sun Apr 5 21:48:04 2020
+[0] Arguments: C:\msys64\maintenancetool.exe
+[219] Operations sanity check succeeded.
+[33843] Network error while downloading 'http://repo.msys2.org/Updates.xml?584447652': Error transferring http://repo.msys2.org/Updates.xml?584447652 - server replied: Not Found.
+[33848] Cannot fetch a valid version of Updates.xml from repository "": "tag mismatch"
+[33849] Cannot retrieve remote tree No package sources set for this application..
+[76588] Network error while downloading 'http://www2.futureware.at/Updates.xml?218367534': Error transferring http://www2.futureware.at/Updates.xml?218367534 - server replied: Not Found.
+[104705] Network error while downloading 'http://mirror.yandex.ru/Updates.xml?17163265': Error transferring http://mirror.yandex.ru/Updates.xml?17163265 - server replied: Not Found.
+[130669] Network error while downloading 'http://mirror.yandex.ru/Updates.xml?370809057': Error transferring http://mirror.yandex.ru/Updates.xml?370809057 - server replied: Not Found.
+[143369] Network error while downloading 'http://mirror.yandex.ru/Updates.xml?359089261': Error transferring http://mirror.yandex.ru/Updates.xml?359089261 - server replied: Not Found.
+[143380] Cannot fetch a valid version of Updates.xml from repository "": "tag mismatch"
+[143381] Cannot retrieve remote tree No package sources set for this application..

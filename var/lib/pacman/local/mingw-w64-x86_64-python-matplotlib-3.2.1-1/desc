@@ -1,0 +1,62 @@
+%NAME%
+mingw-w64-x86_64-python-matplotlib
+
+%VERSION%
+3.2.1-1
+
+%BASE%
+mingw-w64-python-matplotlib
+
+%DESC%
+A python plotting library, making publication quality plots (mingw-w64)
+
+%URL%
+https://matplotlib.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1585033076
+
+%INSTALLDATE%
+1586343203
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+29259832
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+mingw-w64-x86_64-python3-matplotlib
+
+%DEPENDS%
+mingw-w64-x86_64-python-pytz
+mingw-w64-x86_64-python-numpy
+mingw-w64-x86_64-python-cycler
+mingw-w64-x86_64-python-dateutil
+mingw-w64-x86_64-python-pyparsing
+mingw-w64-x86_64-python-kiwisolver
+mingw-w64-x86_64-freetype
+mingw-w64-x86_64-libpng
+
+%OPTDEPENDS%
+mingw-w64-x86_64-python-pyqt5: Qt5Agg/Qt5Cairo backend
+mingw-w64-x86_64-gtk3: GTK3Agg/GTK3Cairo backend
+mingw-w64-x86_64-python-gobject: GTK3Agg/GTK3Cairo backend
+mingw-w64-x86_64-python-cairo: cairo/GTK3Cairo/Qt5Cairo backend
+mingw-w64-x86_64-python-tornado: WebAgg backend
+
+%CONFLICTS%
+mingw-w64-x86_64-python3-matplotlib
+
+%PROVIDES%
+mingw-w64-x86_64-python3-matplotlib
+

@@ -1,0 +1,16 @@
+%FILES%
+mingw64/
+mingw64/lib/
+mingw64/lib/python3.8/
+mingw64/lib/python3.8/site-packages/
+mingw64/lib/python3.8/site-packages/entrypoints-0.3.dist-info/
+mingw64/lib/python3.8/site-packages/entrypoints-0.3.dist-info/LICENSE
+mingw64/lib/python3.8/site-packages/entrypoints-0.3.dist-info/METADATA
+mingw64/lib/python3.8/site-packages/entrypoints-0.3.dist-info/RECORD
+mingw64/lib/python3.8/site-packages/entrypoints-0.3.dist-info/WHEEL
+mingw64/lib/python3.8/site-packages/entrypoints.py
+mingw64/share/
+mingw64/share/licenses/
+mingw64/share/licenses/python-entrypoints/
+mingw64/share/licenses/python-entrypoints/LICENSE
+

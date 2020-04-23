@@ -1,0 +1,39 @@
+%NAME%
+mingw-w64-x86_64-uriparser
+
+%VERSION%
+0.9.3-2
+
+%BASE%
+mingw-w64-uriparser
+
+%DESC%
+RFC 3986 URI parsing and processing libary (mingw-w64)
+
+%URL%
+https://uriparser.sourceforge.io/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1565033122
+
+%INSTALLDATE%
+1586116058
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+659456
+
+%REASON%
+1
+
+%LICENSE%
+New BSD License
+
+%VALIDATION%
+pgp
+

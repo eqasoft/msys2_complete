@@ -1,0 +1,16 @@
+%FILES%
+mingw64/
+mingw64/bin/
+mingw64/bin/curve_keygen.exe
+mingw64/bin/libzmq.dll
+mingw64/include/
+mingw64/include/zmq.h
+mingw64/include/zmq.hpp
+mingw64/include/zmq_addon.hpp
+mingw64/include/zmq_utils.h
+mingw64/lib/
+mingw64/lib/libzmq.a
+mingw64/lib/libzmq.dll.a
+mingw64/lib/pkgconfig/
+mingw64/lib/pkgconfig/libzmq.pc
+

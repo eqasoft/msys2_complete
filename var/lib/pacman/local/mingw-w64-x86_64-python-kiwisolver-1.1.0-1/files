@@ -1,0 +1,13 @@
+%FILES%
+mingw64/
+mingw64/lib/
+mingw64/lib/python3.8/
+mingw64/lib/python3.8/site-packages/
+mingw64/lib/python3.8/site-packages/kiwisolver-1.1.0-py3.8.egg-info/
+mingw64/lib/python3.8/site-packages/kiwisolver-1.1.0-py3.8.egg-info/dependency_links.txt
+mingw64/lib/python3.8/site-packages/kiwisolver-1.1.0-py3.8.egg-info/PKG-INFO
+mingw64/lib/python3.8/site-packages/kiwisolver-1.1.0-py3.8.egg-info/requires.txt
+mingw64/lib/python3.8/site-packages/kiwisolver-1.1.0-py3.8.egg-info/SOURCES.txt
+mingw64/lib/python3.8/site-packages/kiwisolver-1.1.0-py3.8.egg-info/top_level.txt
+mingw64/lib/python3.8/site-packages/kiwisolver-cpython-38.dll
+
